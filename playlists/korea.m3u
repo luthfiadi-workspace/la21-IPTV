@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml"
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/KBS_World_Logo.svg/200px-KBS_World_Logo.svg.png" tvg-country="KR" group-title="🇰🇷 Korea",KBS World
+https://zbpoc-kbsworld.akamaized.net/hls/live/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arirang_TV_Logo.svg/200px-Arirang_TV_Logo.svg.png" tvg-country="KR" group-title="🇰🇷 Korea",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangWorldNow.kr" tvg-name="Arirang World Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arirang_TV_Logo.svg/200px-Arirang_TV_Logo.svg.png" tvg-country="KR" group-title="🇰🇷 Korea",Arirang World Now
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YTNKR.kr" tvg-name="YTN (Korea News)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/YTN_logo.svg/200px-YTN_logo.svg.png" tvg-country="KR" group-title="🇰🇷 Korea",YTN News Korea
+https://ytn-lh.akamaized.net/hls/live/ytn/master.m3u8

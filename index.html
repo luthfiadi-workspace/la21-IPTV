@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LA21-IPTV — Playlist by Luthfiadi</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+  :root {
+    --bg: #0d0f14;
+    --surface: #161920;
+    --surface2: #1e2230;
+    --border: #2a2f3d;
+    --accent: #4f8ef7;
+    --accent2: #7c5cfc;
+    --green: #22c55e;
+    --text: #e8eaf0;
+    --muted: #6b7280;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+  /* HERO */
+  .hero {
+    background: linear-gradient(135deg, #0d0f14 0%, #141830 50%, #0d0f14 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 60px 24px 48px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -60px; left: 50%; transform: translateX(-50%);
+    width: 500px; height: 500px;
+    background: radial-gradient(circle, rgba(79,142,247,0.08) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(79,142,247,0.1);
+    border: 1px solid rgba(79,142,247,0.3);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--accent);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .hero h1 {
+    font-size: 42px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    margin-bottom: 12px;
+    background: linear-gradient(135deg, #fff 0%, #a0aec0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .hero p {
+    font-size: 16px;
+    color: var(--muted);
+    max-width: 480px;
+    margin: 0 auto 32px;
+    line-height: 1.6;
+  }
+  .hero-stats {
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .hero-stat { text-align: center; }
+  .hero-stat .num {
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'JetBrains Mono', monospace;
+    color: var(--accent);
+  }
+  .hero-stat .lbl { font-size: 12px; color: var(--muted); margin-top: 2px; }
+
+  /* MAIN */
+  .container { max-width: 960px; margin: 0 auto; padding: 48px 24px; }
+
+  /* NOTICE */
+  .notice {
+    background: rgba(79,142,247,0.08);
+    border: 1px solid rgba(79,142,247,0.25);
+    border-radius: 12px;
+    padding: 16px 20px;
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 40px;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    line-height: 1.6;
+  }
+  .notice span { font-size: 18px; flex-shrink: 0; }
+
+  /* SECTION */
+  .section-title {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* PLAYLIST GRID */
+  .playlist-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+    margin-bottom: 48px;
+  }
+
+  .playlist-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px;
+    transition: all 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+  .playlist-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--card-color, var(--accent)), transparent);
+  }
+  .playlist-card:hover { border-color: var(--card-color, var(--accent)); transform: translateY(-2px); }
+
+  .card-header { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+  .card-emoji { font-size: 28px; }
+  .card-title { font-size: 16px; font-weight: 600; }
+  .card-desc { font-size: 12px; color: var(--muted); margin-top: 2px; }
+
+  .card-meta {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+  .meta-tag {
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: var(--surface2);
+    color: var(--muted);
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .url-box {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--accent);
+    word-break: break-all;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: border-color 0.15s;
+  }
+  .url-box:hover { border-color: var(--accent); }
+
+  .card-actions { display: flex; gap: 8px; }
+  .btn {
+    flex: 1;
+    padding: 8px 12px;
+    border-radius: 7px;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    transition: all 0.15s;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+  }
+  .btn-copy {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    color: var(--text);
+  }
+  .btn-copy:hover { border-color: var(--accent); color: var(--accent); }
+  .btn-copy.copied { border-color: var(--green); color: var(--green); }
+  .btn-dl {
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    color: white;
+  }
+  .btn-dl:hover { opacity: 0.9; }
+
+  /* HOW TO */
+  .how-to {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 28px;
+    margin-bottom: 48px;
+  }
+  .how-to h2 { font-size: 18px; font-weight: 600; margin-bottom: 20px; }
+  .steps { display: flex; flex-direction: column; gap: 16px; }
+  .step { display: flex; gap: 14px; align-items: flex-start; }
+  .step-num {
+    width: 28px; height: 28px;
+    border-radius: 8px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px; font-weight: 700;
+    flex-shrink: 0;
+  }
+  .step-body { padding-top: 4px; }
+  .step-title { font-size: 14px; font-weight: 500; margin-bottom: 3px; }
+  .step-desc { font-size: 13px; color: var(--muted); line-height: 1.5; }
+  .step-url {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--accent);
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 10px;
+    display: inline-block;
+    margin-top: 6px;
+    cursor: pointer;
+  }
+
+  /* FOOTER */
+  footer {
+    border-top: 1px solid var(--border);
+    text-align: center;
+    padding: 24px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  footer a { color: var(--accent); text-decoration: none; }
+
+  .toast {
+    position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+    background: var(--surface2); border: 1px solid var(--green);
+    border-radius: 8px; padding: 10px 20px;
+    font-size: 13px; color: var(--green);
+    display: none; z-index: 100;
+    animation: fadeIn 0.2s ease;
+  }
+  .toast.show { display: block; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateX(-50%) translateY(10px); } to { opacity: 1; transform: translateX(-50%) translateY(0); } }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-badge">📡 LA21-IPTV</div>
+  <h1>Playlist by Luthfiadi</h1>
+  <p>Koleksi playlist IPTV terorganisir — Indonesia, Korea, Russia, Muslim, News, Stocks, AI Edu & lebih banyak lagi.</p>
+  <div class="hero-stats">
+    <div class="hero-stat"><div class="num">8+</div><div class="lbl">Kategori</div></div>
+    <div class="hero-stat"><div class="num">100+</div><div class="lbl">Channel Pilihan</div></div>
+    <div class="hero-stat"><div class="num">24/7</div><div class="lbl">Live Stream</div></div>
+    <div class="hero-stat"><div class="num">Free</div><div class="lbl">Gratis</div></div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="notice">
+    <span>💡</span>
+    <div>Copy URL playlist dan paste ke aplikasi IPTV kamu (BrowseHere, Tivimate, IPTV Smarters, VLC, dll). Untuk Google TV, buka BrowseHere → Add Playlist → Paste URL. Update otomatis setiap hari via GitHub Actions.</div>
+  </div>
+
+  <div class="section-title">⭐ Playlist Utama</div>
+  <div class="playlist-grid">
+
+    <!-- FULL -->
+    <div class="playlist-card" style="--card-color: #4f8ef7">
+      <div class="card-header">
+        <div class="card-emoji">🌐</div>
+        <div>
+          <div class="card-title">Full Playlist</div>
+          <div class="card-desc">Semua kategori dalam 1 file</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-tag">🇮🇩 ID</span>
+        <span class="meta-tag">🇰🇷 KR</span>
+        <span class="meta-tag">🇷🇺 RU</span>
+        <span class="meta-tag">☪️ Muslim</span>
+        <span class="meta-tag">+6 lagi</span>
+      </div>
+      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/full.m3u')">
+        raw.githubusercontent.com/.../full.m3u
+      </div>
+      <div class="card-actions">
+        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/full.m3u')">📋 Copy URL</button>
+        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/full.m3u" download>⬇ Download</a>
+      </div>
+    </div>
+
+    <!-- INDONESIA -->
+    <div class="playlist-card" style="--card-color: #f59e0b">
+      <div class="card-header">
+        <div class="card-emoji">🇮🇩</div>
+        <div>
+          <div class="card-title">Indonesia</div>
+          <div class="card-desc">TVRI, Metro TV, CNN ID, CNBC ID, dll</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-tag">⭐ Piala Dunia</span>
+        <span class="meta-tag">Rating-sorted</span>
+      </div>
+      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/indonesia.m3u')">
+        raw.githubusercontent.com/.../indonesia.m3u
+      </div>
+      <div class="card-actions">
+        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/indonesia.m3u')">📋 Copy URL</button>
+        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/indonesia.m3u" download>⬇ Download</a>
+      </div>
+    </div>
+
+    <!-- MUSLIM -->
+    <div class="playlist-card" style="--card-color: #22c55e">
+      <div class="card-header">
+        <div class="card-emoji">☪️</div>
+        <div>
+          <div class="card-title">Muslim / Islami</div>
+          <div class="card-desc">Rodja TV, Al Jazeera, Peace TV, Makkah Live</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-tag">🇮🇩 ID</span>
+        <span class="meta-tag">🇸🇦 SA</span>
+        <span class="meta-tag">🇶🇦 QA</span>
+      </div>
+      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/muslim.m3u')">
+        raw.githubusercontent.com/.../muslim.m3u
+      </div>
+      <div class="card-actions">
+        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/muslim.m3u')">📋 Copy URL</button>
+        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/muslim.m3u" download>⬇ Download</a>
+      </div>
+    </div>
+
+    <!-- KOREA -->
+    <div class="playlist-card" style="--card-color: #ec4899">
+      <div class="card-header">
+        <div class="card-emoji">🇰🇷</div>
+        <div>
+          <div class="card-title">Korea</div>
+          <div class="card-desc">KBS World, Arirang TV, YTN</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-tag">KBS</span>
+        <span class="meta-tag">Arirang</span>
+        <span class="meta-tag">YTN</span>
+      </div>
+      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/korea.m3u')">
+        raw.githubusercontent.com/.../korea.m3u
+      </div>
+      <div class="card-actions">
+        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/korea.m3u')">📋 Copy URL</button>
+        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/korea.m3u" download>⬇ Download</a>
+      </div>
+    </div>
+
+    <!-- RUSSIA -->
+    <div class="playlist-card" style="--card-color: #3b82f6">
+      <div class="card-header">
+        <div class="card-emoji">🇷🇺</div>
+        <div>
+          <div class="card-title">Russia</div>
+          <div class="card-desc">RT English, RT Arabic, RT Documentary</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-tag">RT EN</span>
+        <span class="meta-tag">RT AR</span>
+        <span class="meta-tag">RT Doc</span>
+      </div>
+      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/russia.m3u')">
+        raw.githubusercontent.com/.../russia.m3u
+      </div>
+      <div class="card-actions">
+        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/russia.m3u')">📋 Copy URL</button>
+        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/russia.m3u" download>⬇ Download</a>
+      </div>
+    </div>
+
+    <!-- NEWS -->
+    <div class="playlist-card" style="--card-color: #f97316">
+      <div class="card-header">
+        <div class="card-emoji">📰</div>
+        <div>
+          <div class="card-title">News / Berita</div>
+          <div class="card-desc">BBC, Al Jazeera, DW, France 24, CNN, NHK</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-tag">BBC</span>
+        <span class="meta-tag">CNN</span>
+        <span class="meta-tag">DW</span>
+        <span class="meta-tag">+5 lagi</span>
+      </div>
+      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/news.m3u')">
+        raw.githubusercontent.com/.../news.m3u
+      </div>
+      <div class="card-actions">
+        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/news.m3u')">📋 Copy URL</button>
+        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/news.m3u" download>⬇ Download</a>
+      </div>
+    </div>
+
+    <!-- STOCKS & TRADE -->
+    <div class="playlist-card" style="--card-color: #38bdf8">
+      <div class="card-header">
+        <div class="card-emoji">📈</div>
+        <div>
+          <div class="card-title">Stocks & Trade</div>
+          <div class="card-desc">Bloomberg, CNBC, BFM Business</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-tag">Bloomberg</span>
+        <span class="meta-tag">CNBC</span>
+        <span class="meta-tag">BFM</span>
+      </div>
+      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/stocks-trade.m3u')">
+        raw.githubusercontent.com/.../stocks-trade.m3u
+      </div>
+      <div class="card-actions">
+        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/stocks-trade.m3u')">📋 Copy URL</button>
+        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/stocks-trade.m3u" download>⬇ Download</a>
+      </div>
+    </div>
+
+    <!-- AI EDU -->
+    <div class="playlist-card" style="--card-color: #a855f7">
+      <div class="card-header">
+        <div class="card-emoji">🤖</div>
+        <div>
+          <div class="card-title">AI Edu / Science</div>
+          <div class="card-desc">NASA TV, Discovery Science, Curiosity Stream</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-tag">NASA TV</span>
+        <span class="meta-tag">Discovery</span>
+        <span class="meta-tag">Nat Geo</span>
+      </div>
+      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/ai-edu.m3u')">
+        raw.githubusercontent.com/.../ai-edu.m3u
+      </div>
+      <div class="card-actions">
+        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/ai-edu.m3u')">📋 Copy URL</button>
+        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/ai-edu.m3u" download>⬇ Download</a>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- HOW TO USE -->
+  <div class="section-title">📱 Cara Pakai di BrowseHere (Google TV)</div>
+  <div class="how-to">
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <div class="step-title">Copy URL playlist</div>
+          <div class="step-desc">Klik tombol "Copy URL" di salah satu playlist di atas. Untuk semua channel, gunakan <strong>Full Playlist</strong>.</div>
+          <span class="step-url" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/full.m3u')">https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/full.m3u</span>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <div class="step-title">Buka BrowseHere di Google TV</div>
+          <div class="step-desc">Buka aplikasi BrowseHere → pilih menu IPTV atau M3U Player → pilih "Add Playlist".</div>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <div class="step-title">Paste URL & Load</div>
+          <div class="step-desc">Paste URL yang sudah dicopy → klik Load/OK. Channel akan muncul terkelompok per kategori otomatis.</div>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-body">
+          <div class="step-title">Update Otomatis</div>
+          <div class="step-desc">Playlist diperbarui otomatis setiap hari pukul 08.00 WIB via GitHub Actions. Tidak perlu update manual.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  <p>LA21-IPTV by <a href="https://github.com/luthfiadi-workspace" target="_blank">luthfiadi-workspace</a> · 
+  <a href="https://github.com/luthfiadi-workspace/la21-IPTV" target="_blank">GitHub Repo</a> · 
+  Sumber: <a href="https://github.com/iptv-org/iptv" target="_blank">iptv-org</a></p>
+  <p style="margin-top:8px;font-size:11px">Untuk penggunaan pribadi. Stream publik dari broadcaster resmi masing-masing negara.</p>
+</footer>
+
+<div class="toast" id="toast">✅ URL berhasil dicopy!</div>
+
+<script>
+function copyUrl(el, url) {
+  navigator.clipboard.writeText(url).then(() => {
+    // Flash btn if it's a button
+    if (el.classList.contains('btn-copy')) {
+      el.classList.add('copied');
+      el.textContent = '✅ Copied!';
+      setTimeout(() => {
+        el.classList.remove('copied');
+        el.textContent = '📋 Copy URL';
+      }, 2000);
+    }
+    // Show toast
+    const toast = document.getElementById('toast');
+    toast.classList.add('show');
+    setTimeout(() => toast.classList.remove('show'), 2500);
+  });
+}
+</script>
+</body>
+</html>

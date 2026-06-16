@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/200px-New_Bloomberg_Logo.svg.png" tvg-country="US" group-title="📈 Stocks & Trade",Bloomberg TV
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBCUs.us" tvg-name="CNBC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-country="US" group-title="📈 Stocks & Trade",CNBC US
+https://cnbc.cloudflare.net/live/cnbc-us/master.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CNBC_Indonesia_logo.svg/200px-CNBC_Indonesia_logo.svg.png" tvg-country="ID" group-title="📈 Stocks & Trade",CNBC Indonesia
+https://d2e1asnsl7br7b.cloudfront.net/cnbcindonesia/index.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BFM_Business_logo.svg/200px-BFM_Business_logo.svg.png" tvg-country="FR" group-title="📈 Stocks & Trade",BFM Business
+https://bfmbusiness.bfmtv.com/video/live/bfmbusiness/bfmbusiness.m3u8
+
+#EXTINF:-1 tvg-id="NikkeiCNBC.jp" tvg-name="Nikkei CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-country="JP" group-title="📈 Stocks & Trade",Nikkei CNBC (Japan)
+https://nikkei-cnbc-live.akamaized.net/hls/live/nikkei/master.m3u8
+
+#EXTINF:-1 tvg-id="BloombergEurope.gb" tvg-name="Bloomberg Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/200px-New_Bloomberg_Logo.svg.png" tvg-country="GB" group-title="📈 Stocks & Trade",Bloomberg Europe
+https://bloomberg-bloomberg-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBCInternational.gb" tvg-name="CNBC International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-country="GB" group-title="📈 Stocks & Trade",CNBC International
+https://cnbc.cloudflare.net/live/cnbc-intl/master.m3u8

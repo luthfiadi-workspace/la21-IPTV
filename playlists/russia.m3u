@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT (Russia Today)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/RT_logo_2022.svg/200px-RT_logo_2022.svg.png" tvg-country="RU" group-title="🇷🇺 Russia",RT English
+https://rt-glb.rttv.com/live/rteng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/RT_logo_2022.svg/200px-RT_logo_2022.svg.png" tvg-country="RU" group-title="🇷🇺 Russia",RT Arabic
+https://rt-glb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/RT_logo_2022.svg/200px-RT_logo_2022.svg.png" tvg-country="RU" group-title="🇷🇺 Russia",RT Documentary
+https://rt-glb.rttv.com/live/rtdoc/playlist.m3u8

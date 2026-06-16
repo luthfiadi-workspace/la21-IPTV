@@ -1,0 +1,164 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mola.tv.epg.xml"
+#
+# ╔═══════════════════════════════════════════════════╗
+# ║     LA21-IPTV — Full Playlist by Luthfiadi        ║
+# ║     github.com/luthfiadi-workspace/la21-IPTV      ║
+# ║     Diurutkan: Popularitas per Kategori           ║
+# ╚═══════════════════════════════════════════════════╝
+
+# ════════════════════════════════
+# 🇮🇩  INDONESIA  (sorted by rating)
+# ════════════════════════════════
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVRI_2019_Logo.svg/200px-TVRI_2019_Logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",TVRI Nasional ⭐ Piala Dunia 2026
+https://cdn.lintasmedia.com/livetv/tvri_avc_264.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVRI_2019_Logo.svg/200px-TVRI_2019_Logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",TVRI Sport ⭐ Piala Dunia 2026
+https://cdn.lintasmedia.com/livetv/tvrisport_avc_264.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Metro_TV_Indonesia_logo.svg/200px-Metro_TV_Indonesia_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",Metro TV
+https://22553.live.streamtheworld.com/METRO_TV.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CNN_Indonesia_logo.svg/200px-CNN_Indonesia_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",CNN Indonesia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43b7b3b1e7b6b9d0c7b8/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CNBC_Indonesia_logo.svg/200px-CNBC_Indonesia_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",CNBC Indonesia
+https://d2e1asnsl7br7b.cloudfront.net/cnbcindonesia/index.m3u8
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/INews_logo.svg/200px-INews_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",iNews TV
+https://live.inews.id/live/inews/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kompas_TV_logo.svg/200px-Kompas_TV_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",Kompas TV
+https://live.kompas.tv/ktv/smil:ktv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://rodjatv.com/images/logo-rodja.png" tvg-country="ID" group-title="🇮🇩 Indonesia",Rodja TV
+https://rodjatv.muqri.com/live/stream/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BeritaSatu_logo.svg/200px-BeritaSatu_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",BeritaSatu
+https://stream.beritasatu.com/bstv/smil:bstv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTVID.id" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Nusantara_TV_logo.svg/200px-Nusantara_TV_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",Nusantara TV
+https://stream1.nusantaratv.com/ntvlive/ntvlive.stream/playlist.m3u8
+
+# ════════════════════════════════
+# 🇰🇷  KOREA
+# ════════════════════════════════
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/KBS_World_Logo.svg/200px-KBS_World_Logo.svg.png" tvg-country="KR" group-title="🇰🇷 Korea",KBS World
+https://zbpoc-kbsworld.akamaized.net/hls/live/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arirang_TV_Logo.svg/200px-Arirang_TV_Logo.svg.png" tvg-country="KR" group-title="🇰🇷 Korea",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangWorldNow.kr" tvg-name="Arirang World Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arirang_TV_Logo.svg/200px-Arirang_TV_Logo.svg.png" tvg-country="KR" group-title="🇰🇷 Korea",Arirang World Now
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YTN.kr" tvg-name="YTN News Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/YTN_logo.svg/200px-YTN_logo.svg.png" tvg-country="KR" group-title="🇰🇷 Korea",YTN News Korea
+https://ytn-lh.akamaized.net/hls/live/ytn/master.m3u8
+
+# ════════════════════════════════
+# 🇷🇺  RUSSIA
+# ════════════════════════════════
+
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/RT_logo_2022.svg/200px-RT_logo_2022.svg.png" tvg-country="RU" group-title="🇷🇺 Russia",RT English
+https://rt-glb.rttv.com/live/rteng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/RT_logo_2022.svg/200px-RT_logo_2022.svg.png" tvg-country="RU" group-title="🇷🇺 Russia",RT Arabic
+https://rt-glb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/RT_logo_2022.svg/200px-RT_logo_2022.svg.png" tvg-country="RU" group-title="🇷🇺 Russia",RT Documentary
+https://rt-glb.rttv.com/live/rtdoc/playlist.m3u8
+
+# ════════════════════════════════
+# ☪️  MUSLIM / ISLAMI
+# ════════════════════════════════
+
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/5/5e/Aljazeera_arabic.svg/200px-Aljazeera_arabic.svg.png" tvg-country="QA" group-title="☪️ Muslim",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" tvg-country="QA" group-title="☪️ Muslim",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="RodjaTV2.id" tvg-name="Rodja TV" tvg-logo="https://rodjatv.com/images/logo-rodja.png" tvg-country="ID" group-title="☪️ Muslim",Rodja TV (Dakwah)
+https://rodjatv.muqri.com/live/stream/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTV.gb" tvg-name="Peace TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Peace_TV_logo.svg/200px-Peace_TV_logo.svg.png" tvg-country="GB" group-title="☪️ Muslim",Peace TV
+https://peacetv.7i.fi/live/peacetv/index.m3u8
+
+#EXTINF:-1 tvg-id="IslamChannel.gb" tvg-name="Islam Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Islam_Channel_logo.svg/200px-Islam_Channel_logo.svg.png" tvg-country="GB" group-title="☪️ Muslim",Islam Channel
+https://stream.islamchannel.tv/live/islamchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="AlQuranTV.sa" tvg-name="Al-Quran TV Saudi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Saudi_TV_Logo.svg/200px-Saudi_TV_Logo.svg.png" tvg-country="SA" group-title="☪️ Muslim",Al-Quran TV Saudi
+https://Sauditvhd.akamaized.net/hls/live/2014854/ch2/master.m3u8
+
+#EXTINF:-1 tvg-id="MakkahLive.sa" tvg-name="Makkah Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Saudi_TV_Logo.svg/200px-Saudi_TV_Logo.svg.png" tvg-country="SA" group-title="☪️ Muslim",Makkah Live 24/7
+https://sna.akamaized.net/hls/live/1088283/anntv/master.m3u8
+
+#EXTINF:-1 tvg-id="HidayahTV.my" tvg-name="Hidayah TV" tvg-logo="https://hidayahtv.com/wp-content/uploads/2020/01/hidayah-tv-logo.png" tvg-country="MY" group-title="☪️ Muslim",Hidayah TV
+https://livestream.hidayahtv.com/live/stream/playlist.m3u8
+
+# ════════════════════════════════
+# 📰  NEWS / BERITA
+# ════════════════════════════════
+
+#EXTINF:-1 tvg-id="BBCWorldNews.gb" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_World_News_2022.svg/200px-BBC_World_News_2022.svg.png" tvg-country="GB" group-title="📰 News",BBC World News
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="DE" group-title="📰 News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015534/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="France24EN.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/France_24_logo.svg/200px-France_24_logo.svg.png" tvg-country="FR" group-title="📰 News",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TRT_World_logo.svg/200px-TRT_World_logo.svg.png" tvg-country="TR" group-title="📰 News",TRT World
+https://trtworldlive.akamaized.net/hls/live/trtworld/master.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEN.eu" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Euronews_logo.svg/200px-Euronews_logo.svg.png" tvg-country="EU" group-title="📰 News",Euronews English
+https://rakuten-euronews-1-eu.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNIntl.us" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" tvg-country="US" group-title="📰 News",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/NHK_World_logo.svg/200px-NHK_World_logo.svg.png" tvg-country="JP" group-title="📰 News",NHK World
+https://nhkworld-vh.akamaihd.net/i/nhkworld/nhkw-pc@355864/index_1M_av-b.m3u8
+
+# ════════════════════════════════
+# 📈  STOCKS & TRADE
+# ════════════════════════════════
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/200px-New_Bloomberg_Logo.svg.png" tvg-country="US" group-title="📈 Stocks & Trade",Bloomberg TV
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergEU.gb" tvg-name="Bloomberg Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/200px-New_Bloomberg_Logo.svg.png" tvg-country="GB" group-title="📈 Stocks & Trade",Bloomberg Europe
+https://bloomberg-bloomberg-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBCUs.us" tvg-name="CNBC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-country="US" group-title="📈 Stocks & Trade",CNBC US
+https://cnbc.cloudflare.net/live/cnbc-us/master.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIntl.gb" tvg-name="CNBC International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-country="GB" group-title="📈 Stocks & Trade",CNBC International
+https://cnbc.cloudflare.net/live/cnbc-intl/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BFM_Business_logo.svg/200px-BFM_Business_logo.svg.png" tvg-country="FR" group-title="📈 Stocks & Trade",BFM Business
+https://bfmbusiness.bfmtv.com/video/live/bfmbusiness/bfmbusiness.m3u8
+
+# ════════════════════════════════
+# 🤖  AI EDU / SCIENCE & TECH
+# ════════════════════════════════
+
+#EXTINF:-1 tvg-id="NASAPublic.us" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",NASA TV (Live Science)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="NASAMedia.us" tvg-name="NASA TV Media" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",NASA TV Media Channel
+https://ntv2.akamaized.net/hls/live/2014076/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="CuriosityStream.us" tvg-name="Curiosity Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Curiosity_Stream_logo.svg/200px-Curiosity_Stream_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",Curiosity Stream
+https://rakuten-curiositystream-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Discovery_Science_Channel_logo.svg/200px-Discovery_Science_Channel_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",Discovery Science
+https://rakuten-discoveryscience-1-eu.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoScience.us" tvg-name="Nat Geo Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/National_Geographic_Channel_logo.svg/200px-National_Geographic_Channel_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",Nat Geo (Tech & Science)
+https://rakuten-nationalgeo-1-eu.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKTech.jp" tvg-name="NHK World (Tech)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/NHK_World_logo.svg/200px-NHK_World_logo.svg.png" tvg-country="JP" group-title="🤖 AI Edu",NHK World Tech Programs
+https://nhkworld-vh.akamaihd.net/i/nhkworld/nhkw-pc@355864/index_1M_av-b.m3u8

@@ -1,0 +1,28 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mola.tv.epg.xml"
+
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://rodjatv.com/images/logo-rodja.png" tvg-country="ID" group-title="☪️ Muslim",Rodja TV
+https://rodjatv.muqri.com/live/stream/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/5/5e/Aljazeera_arabic.svg/200px-Aljazeera_arabic.svg.png" tvg-country="QA" group-title="☪️ Muslim",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" tvg-country="QA" group-title="☪️ Muslim",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTV.gb" tvg-name="Peace TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Peace_TV_logo.svg/200px-Peace_TV_logo.svg.png" tvg-country="GB" group-title="☪️ Muslim",Peace TV
+https://peacetv.7i.fi/live/peacetv/index.m3u8
+
+#EXTINF:-1 tvg-id="IslamChannel.gb" tvg-name="Islam Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Islam_Channel_logo.svg/200px-Islam_Channel_logo.svg.png" tvg-country="GB" group-title="☪️ Muslim",Islam Channel
+https://stream.islamchannel.tv/live/islamchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="HidayahTV.my" tvg-name="Hidayah TV" tvg-logo="https://hidayahtv.com/wp-content/uploads/2020/01/hidayah-tv-logo.png" tvg-country="MY" group-title="☪️ Muslim",Hidayah TV
+https://livestream.hidayahtv.com/live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlQuranTV.sa" tvg-name="Al-Quran TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Saudi_TV_Logo.svg/200px-Saudi_TV_Logo.svg.png" tvg-country="SA" group-title="☪️ Muslim",Al-Quran TV (Saudi)
+https://Sauditvhd.akamaized.net/hls/live/2014854/ch2/master.m3u8
+
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Saudi_TV_Logo.svg/200px-Saudi_TV_Logo.svg.png" tvg-country="SA" group-title="☪️ Muslim",Makkah Live
+https://sna.akamaized.net/hls/live/1088283/anntv/master.m3u8
+
+#EXTINF:-1 tvg-id="RRITV.id" tvg-name="RRI NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/RRI_logo.svg/200px-RRI_logo.svg.png" tvg-country="ID" group-title="☪️ Muslim",RRI NET (Radio & Dakwah)
+https://stream-rri.cdn.iptvnusantara.com/rri-net/rri-net.stream/playlist.m3u8
