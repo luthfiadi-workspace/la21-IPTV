@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mola.tv.epg.xml"
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVRI_2019_Logo.svg/200px-TVRI_2019_Logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",TVRI Nasional
+https://cdn.lintasmedia.com/livetv/tvri_avc_264.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVRI_2019_Logo.svg/200px-TVRI_2019_Logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",TVRI Sport
+https://cdn.lintasmedia.com/livetv/tvrisport_avc_264.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Metro_TV_Indonesia_logo.svg/200px-Metro_TV_Indonesia_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",Metro TV
+https://22553.live.streamtheworld.com/METRO_TV.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CNN_Indonesia_logo.svg/200px-CNN_Indonesia_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",CNN Indonesia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43b7b3b1e7b6b9d0c7b8/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CNBC_Indonesia_logo.svg/200px-CNBC_Indonesia_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",CNBC Indonesia
+https://d2e1asnsl7br7b.cloudfront.net/cnbcindonesia/index.m3u8
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/INews_logo.svg/200px-INews_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",iNews TV
+https://live.inews.id/live/inews/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kompas_TV_logo.svg/200px-Kompas_TV_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",Kompas TV
+https://live.kompas.tv/ktv/smil:ktv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BeritaSatu_logo.svg/200px-BeritaSatu_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",BeritaSatu
+https://stream.beritasatu.com/bstv/smil:bstv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://rodjatv.com/images/logo-rodja.png" tvg-country="ID" group-title="🇮🇩 Indonesia",Rodja TV
+https://rodjatv.muqri.com/live/stream/manifest.m3u8
+
+#EXTINF:-1 tvg-id="NTVID.id" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Nusantara_TV_logo.svg/200px-Nusantara_TV_logo.svg.png" tvg-country="ID" group-title="🇮🇩 Indonesia",Nusantara TV
+https://stream1.nusantaratv.com/ntvlive/ntvlive.stream/playlist.m3u8

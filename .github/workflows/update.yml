@@ -1,0 +1,32 @@
+name: 🔄 Daily Playlist Update
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # Setiap hari jam 01:00 UTC (08:00 WIB)
+  workflow_dispatch:        # Bisa dijalankan manual dari GitHub Actions tab
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch & merge iptv-org playlists
+        run: python scripts/update_playlists.py
+
+      - name: Commit updated playlists
+        run: |
+          git config user.name "LA21-IPTV Bot"
+          git config user.email "bot@la21-iptv.auto"
+          git add playlists/
+          git diff --staged --quiet || git commit -m "🔄 Auto-update playlists $(date '+%Y-%m-%d %H:%M WIB')"
+          git push

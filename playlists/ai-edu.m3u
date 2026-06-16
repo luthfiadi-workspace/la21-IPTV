@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="NASAPublic.us" tvg-name="NASA TV Public" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="NASAMedia.us" tvg-name="NASA TV Media" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2014076/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="ISSTV.us" tvg-name="ISS Live Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",ISS Live (Space Station)
+https://nasa-public.akamaized.net/ISS_HDEV_loopback/master.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Tech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/NHK_World_logo.svg/200px-NHK_World_logo.svg.png" tvg-country="JP" group-title="🤖 AI Edu",NHK World (Tech & Science)
+https://nhkworld-vh.akamaihd.net/i/nhkworld/nhkw-pc@355864/index_1M_av-b.m3u8
+
+#EXTINF:-1 tvg-id="DWAcademia.de" tvg-name="DW Learning" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="DE" group-title="🤖 AI Edu",DW Learning (Tech Docs)
+https://dwamdstream102.akamaized.net/hls/live/2015534/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="CuriosityStream.us" tvg-name="Curiosity Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Curiosity_Stream_logo.svg/200px-Curiosity_Stream_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",Curiosity Stream (Science)
+https://rakuten-curiositystream-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Discovery_Science_Channel_logo.svg/200px-Discovery_Science_Channel_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",Discovery Science
+https://rakuten-discoveryscience-1-eu.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTech.us" tvg-name="Bloomberg Technology" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/200px-New_Bloomberg_Logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",Bloomberg Technology
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeoTV.us" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/National_Geographic_Channel_logo.svg/200px-National_Geographic_Channel_logo.svg.png" tvg-country="US" group-title="🤖 AI Edu",Nat Geo (Science & Tech)
+https://rakuten-nationalgeo-1-eu.samsung.wurl.tv/manifest/playlist.m3u8
