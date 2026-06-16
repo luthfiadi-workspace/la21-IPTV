@@ -1,22 +1,153 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mola.tv.epg.xml"
 
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/200px-New_Bloomberg_Logo.svg.png" tvg-country="US" group-title="📈 Stocks & Trade",Bloomberg TV
-https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CNBCIndonesia.id@SD",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="CNBCUs.us" tvg-name="CNBC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-country="US" group-title="📈 Stocks & Trade",CNBC US
-https://cnbc.cloudflare.net/live/cnbc-us/master.m3u8
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="IDXChannel.id@SD",IDX Channel (720p)
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/idx/manifest.mpd
 
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CNBC_Indonesia_logo.svg/200px-CNBC_Indonesia_logo.svg.png" tvg-country="ID" group-title="📈 Stocks & Trade",CNBC Indonesia
-https://d2e1asnsl7br7b.cloudfront.net/cnbcindonesia/index.m3u8
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="JobplusTV.kr@SD",Job Plus TV (한국직업방송) (480p)
+https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BFM_Business_logo.svg/200px-BFM_Business_logo.svg.png" tvg-country="FR" group-title="📈 Stocks & Trade",BFM Business
-https://bfmbusiness.bfmtv.com/video/live/bfmbusiness/bfmbusiness.m3u8
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="RBKTV.ru@SD",РБК (576p)
+https://uiptv.do.am/1ufc/701293058/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NikkeiCNBC.jp" tvg-name="Nikkei CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-country="JP" group-title="📈 Stocks & Trade",Nikkei CNBC (Japan)
-https://nikkei-cnbc-live.akamaized.net/hls/live/nikkei/master.m3u8
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="RBKTV.ru@SD",РБК (560p)
+http://92.50.128.180/utv/1358/index.m3u8
 
-#EXTINF:-1 tvg-id="BloombergEurope.gb" tvg-name="Bloomberg Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/200px-New_Bloomberg_Logo.svg.png" tvg-country="GB" group-title="📈 Stocks & Trade",Bloomberg Europe
-https://bloomberg-bloomberg-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="RBKTV.ru@SD",РБК (СПБ) (576p)
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 
-#EXTINF:-1 tvg-id="CNBCInternational.gb" tvg-name="CNBC International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-country="GB" group-title="📈 Stocks & Trade",CNBC International
-https://cnbc.cloudflare.net/live/cnbc-intl/master.m3u8
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="RBKTV.ru@SD",РБК-ТВ
+http://online-video.rbc.ru/online2/rbctv.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergOriginals.us@SD",Bloomberg Originals (1080p)
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p)
+https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergOriginals.us@SD",Bloomberg Originals (1080p)
+#EXTVLCOPT:http-referrer=https://www.bloomberg.com/originals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergTV.us@Plus",Bloomberg TV + (2160p)
+https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergTV.us@US",Bloomberg TV US (720p)
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergTV.us@LiveEvent",Bloomberg TV US Live Event (720p)
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergTV.us@PoliticsLiveEvent",Bloomberg TV US Politics Live Event (720p)
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergTV.us@Plus",Bloomberg TV+ (1080p)
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CNBCIndonesia.id@SD",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="YahooFinance.us@SD",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergTV.us@EMEALiveEvent",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergTV.us@Europe",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CNBCUK.uk@SD",CNBC UK (1080p) [Geo-blocked]
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="AlArabiyaBusiness.ae@SD",Al Arabiya Business (1080p)
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CNBCArabiya.ae@SD",CNBC Arabiya (1080p)
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BFMBusiness.fr@SD",BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BTTV.in@SD",BT TV (720p)
+https://feeds.intoday.in/bttv/itgd.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CNBCAwaaz.in@SD",CNBC Awaaz (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CNBCBajar.in@SD",CNBC Bajar (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CNBCTV18.in@SD",CNBC TV18 (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CNBCTV18PrimeHD.in@SD",CNBC TV18 Prime HD (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="ETNow.in@SD",ET Now (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.timesnownews.com/
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="ETNow.in@SD",ET Now (720p)
+https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="ETNowSwadesh.in@SD",ET Now Swadesh (720p)
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="NDTVProfit.in@SD",NDTV Profit (1080p)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="NDTVProfit.in@HD",NDTV Profit (1080p)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="ZeeBusiness.in@SD",Zee Business (720p)
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="ZeeBusiness.in@SD",Zee Business (576p)
+http://103.229.254.25:7001/play/a09r/index.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="ZeeBusiness.in@SD",Zee Business (576p)
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="AsharqNews.sa@SD",Asharq News (1080p)
+https://live-news.asharq.com/asharq.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="AsharqNews.sa@SD",Asharq News (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="AsharqNews.sa@SD",Asharq News (1080p)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="AsharqNews.sa@SD",Asharq News (1080p)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="AsharqRadio.sa@SD",Asharq Radio (1080p)
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergHT.tr@SD",Bloomberg HT (720p) [Not 24/7]
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergHT.tr@SD",Bloomberg HT (720p)
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergHT.tr@SD",BloombergHT (720p)
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CNBCe.tr@SD",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="NegociosTV.es@SD",Negocios TV (1080p)
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="ClassCNBC.it@SD",Class CNBC (1080p) [Geo-blocked]
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="ClassCNBC.it@SD",Class CNBC
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8
+
