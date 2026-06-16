@@ -76,7 +76,7 @@ def set_group(extinf, group):
 
 def write_playlist(path, channels, note=""):
     with open(path, "w", encoding="utf-8") as f:
-        f.write('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mola.tv.epg.xml"\n')
+        f.write('#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"\n')
         if note:
             f.write(f"# {note}\n")
         f.write("\n")
