@@ -1,0 +1,241 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" tvg-id="MBGTV.id@FHD",MBG TV (1080p)
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/2XYpmHL.png" tvg-id="TVRParlemen.id@SD",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/2XYpmHL.png" tvg-id="TVRParlemen.id@SD",TVR Parlemen (720p) [Not 24/7]
+https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" tvg-id="KTV.kr@SD",Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/UKdB8vD.png" tvg-id="NationalAssemblyTV.kr@SD",National Assembly TV (720p)
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/vi4TCdb.png" tvg-id="AccessVisionChannel17.us@SD",AccessVision Channel 17 (720p)
+https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/Z6lB0Ww.png" tvg-id="ACTV.us@SD",ACTV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/3h9RkFA.png" tvg-id="AppleValleyChannel180.us@SD",Apple Valley Channel 180
+https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/tSMtDlz.png" tvg-id="ATXN1.us@SD",ATXN1 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/tSMtDlz.png" tvg-id="ATXN2.us@SD",ATXN2 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/VPGIfVh.png" tvg-id="BATVGovernmentTV.us@SD",Bloomfield Access Government TV (480p)
+https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/U5fZkCN.jpeg" tvg-id="CityofMonroeGovernmentChannel.us@SD",City of Monroe Government Channel
+https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/IVqjCRE.png" tvg-id="COStv.us@SD",COStv
+https://irctv.cablecast.tv/live/stream-1/live.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/pb0TFQt.jpeg" tvg-id="CTNCourtFeed.us@SD",CT-N Court Feed (360p) [Not 24/7]
+http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/pb0TFQt.jpeg" tvg-id="CTNLiveStream2.us@SD",CT-N Live Stream 2 (360p) [Not 24/7]
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/pb0TFQt.jpg" tvg-id="CTNTVConneticut.us@SD",CT-N TV Conneticut (720p) [Not 24/7]
+http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/MRR6UL3.png" tvg-id="DerryTV17.us@SD",DerryTV 17 (720p)
+https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/d5w2pT4.png" tvg-id="LGTV.us@SD",LGTV (1080p)
+https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/iv9Vfcb.png" tvg-id="GovernmentTV16.us@SD",Nashua GTV Channel 16 Nashua NH (720p)
+https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/eA2WSXa.png" tvg-id="NatickGovernmentChannel.us@SD",Natick Government Channel (720p)
+https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/BmNc3hu.png" tvg-id="PHLgovTV.us@SD",PHLgovTV (720p)
+https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/nHWWLBP.png" tvg-id="PublicSenat2424.fr@SD",Public Senat 24/24
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-id="Parlamentsfernsehen1.de@SD",Parlamentsfernsehen 1 (1080p) [Geo-blocked]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-id="Parlamentsfernsehen1.de@SD",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-id="Parlamentsfernsehen2.de@SD",Parlamentsfernsehen 2 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-id="Parlamentsfernsehen3.de@SD",Parlamentsfernsehen 3 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-id="Parlamentsfernsehen4.de@SD",Parlamentsfernsehen 4 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png?lock=720x540" tvg-id="SansadTV1.in@SD",Sansad TV 1 (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png?lock=720x540" tvg-id="SansadTV1.in@SD",Sansad TV 1 (1080p)
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
+https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png?lock=720x540" tvg-id="SansadTV1.in@HD",Sansad TV 1 HD (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-id="SansadTV2.in@HD",Sansad TV 2 (1080p) [Not 24/7]
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-id="SansadTV2.in@HD",Sansad TV 2 (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-id="SansadTV2.in@HD",Sansad TV 2 (1080p)
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
+https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-id="SansadTV2.in@SD",Sansad TV 2
+https://cdn-2.pishow.tv/live/39/master.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png" tvg-id="RTMParlimenDewanNegara.my@SD",RTM Parlimen (Dewan Negara) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png" tvg-id="RTMParlimenDewanRakyat.my@SD",RTM Parlimen (Dewan Rakyat) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/BUO0wH6.png" tvg-id="CanalParlamento.es@SD",Canal Parlamento (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/3Qxpe72.png" tvg-id="CongresodelosDiputados1.es@SD",Congreso de los Diputados 1 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/ffN2LE3.png" tvg-id="CongresodelosDiputados2.es@SD",Congreso de los Diputados 2 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-id="CongresodelosDiputados3.es@SD",Congreso de los Diputados 3 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-id="CongresodelosDiputados4.es@SD",Congreso de los Diputados 4 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-id="CongresodelosDiputados5.es@SD",Congreso de los Diputados 5 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/bVkRBg5.png" tvg-id="CortsValencianes.es@SD",Corts Valencianes (480p) [Not 24/7]
+https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/J6h5IQS.png" tvg-id="ParlamentodeAndalucia.es@SD",Parlamento de Andalucía (576p) [Not 24/7]
+http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/JnhWxKv.png" tvg-id="ParlamentodeNavarra.es@SD",Parlamento de Navarra (368p) [Not 24/7]
+https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/hv4zi9N.png" tvg-id="CameradeiDeputati.it@SD",Camera dei Deputati (via RR) (240p)
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/rHPY0Yv.png" tvg-id="CanalGov.br@SD",Canal Gov (720p)
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/UPa1tjs.png" tvg-id="TVAssembleiaCeara.br@SD",TV Assembléia Ceará (720p)
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-id="TVCamara.br@SD",TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/dHrUG1R.png" tvg-id="TVCamara2.br@SD",TV Câmara 2 (1080p) [Not 24/7]
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/VEXEzSx.png" tvg-id="TVCamaraSalvador.br@SD",TV Câmara Salvador (288p) [Not 24/7]
+https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerActualiteitenkanaal.nl@SD",Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerAlettaJacobszaal.nl@SD",Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerAlettaJacobszaal.nl@SD",Tweede Kamer: Aletta Jacobszaal (720p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/aletta_jacobszaal/index.m3u8?hd=1&subtitles=1
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerEnquetezaal.nl@SD",Tweede Kamer: Enquetezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerGroenvanPrinstererzaal.nl@SD",Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerMaxvanderStoelzaal.nl@SD",Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerPlenairezaal.nl@SD",Tweede Kamer: Plenaire zaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerPlenairezaal.nl@SD",Tweede Kamer: Plenaire zaal (720p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/plenaire_zaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerSuzeGroenewegzaal.nl@SD",Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerThorbeckezaal.nl@SD",Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerThorbeckezaal.nl@SD",Tweede Kamer: Thorbeckezaal (720p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerTilanuskamer.nl@SD",Tweede Kamer: Tilanuskamer (1080p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerTilanuskamer.nl@SD",Tweede Kamer: Tilanuskamer (720p) [Not 24/7]
+https://livestream.tweedekamer.nl/live/tilanuskamer/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerTroelstrazaal.nl@SD",Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl@SD",Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/y00t9hr.png" tvg-id="ARTV.pt@SD",ARTV Canal Parlamento (720p) [Not 24/7]
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png" tvg-id="CPACEnglish.ca@SD",CPAC (720p)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/n24MrsX.png" tvg-id="LegislativeAssemblyofOntario.ca@SD",Legislative Assembly of Ontario
+https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/n24MrsX.png" tvg-id="LegislativeAssemblyofOntario.ca@SD",Legislative Assembly of Ontario (without interpretation)
+https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/wY9WhYS.png" tvg-id="LegislativeAssemblyTVNunavut.ca@SD",Legislative Assembly TV Nunavut
+http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/xKXs6ER.png" tvg-id="OntarioParliamentaryNetwork.ca@SD",Ontario Parliamentary Network (720p)
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/xKXs6ER.png" tvg-id="OntarioParliamentaryNetwork.ca@SD",Ontario Parliamentary Network
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/xAC6gQO.png" tvg-id="CanaldelCongreso451.mx@SD",Canal del Congreso 45.1
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/fLpkHfZ.png" tvg-id="CanalParlamentodelCongresodeJalisco.mx@SD",Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/iUks0ot.png" tvg-id="IcrtvColima.mx@SD",ICRTV Colima (1080p)
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://i.imgur.com/zyAS1hk.png" tvg-id="JusticiaTV.mx@SD",Justicia TV (720p)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+#EXTINF:-1 group-title="🏛️ Legislative" tvg-logo="https://www.tvchinese.net/uploads/tv/cszfpd.jpg" tvg-id="HunanPoliticsLawChannel.cn@SD",长沙政法 [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+

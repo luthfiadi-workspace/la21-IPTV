@@ -1,0 +1,20 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+
+#EXTINF:-1 group-title="🔬 Science" tvg-logo="https://www.medibiztv.com/assets/logo-E76jcvP9.png" tvg-id="MediBizTV.in@SD",MediBizTV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+
+#EXTINF:-1 group-title="🔬 Science" tvg-logo="https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png" tvg-id="InWonder.nl@SD",InWonder (1080p) [Geo-blocked]
+https://amg00861-amg00861c14-rlaxx-uk-3954.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🔬 Science" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" tvg-id="JilinRuralChannel.cn@SD",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+
+#EXTINF:-1 group-title="🔬 Science" tvg-logo="https://i.imgur.com/EY2zH06.png" tvg-id="ShandongTVAgriculturalScienceChannel.cn@SD",山东农科 (406p) [Geo-blocked]
+http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+
+#EXTINF:-1 group-title="🔬 Science" tvg-logo="https://i.imgur.com/9JfZJRv.png" tvg-id="ChuzhouScienceEducationChannel.cn@SD",滁州市广播电视台 科教频道 (400p)
+http://live.cztv.cc:85/live/sjpd.m3u8
+
+#EXTINF:-1 group-title="🔬 Science" tvg-logo="https://i.imgur.com/9JfZJRv.png" tvg-id="ChuzhouScienceEducationChannel.cn@SD",滁州科教 (450p)
+http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
+

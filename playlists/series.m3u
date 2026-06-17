@@ -1,0 +1,143 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_wz2sim1e/landscape_carousel_xxhdpi.webp" tvg-id="NewTVComprehensive.id@SD",New TV Comprehensive
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_2xlnqlst/landscape_carousel_xxhdpi.webp" tvg-id="NewTVFinance.id@SD",New TV Finance
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_emchwlj8/landscape_carousel_xxhdpi.webp" tvg-id="NewTVVariety.id@SD",New TV Variety
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" tvg-id="48Hours.us@US",48 Hours (1080p)
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-id="MBCDramaUSA.us@SD",MBC Drama USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/avBL8pQ.png" tvg-id="UniversalComedy.us@SD",Universal Comedy (480p)
+http://190.2.212.209:8050/play/a0q4
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg" tvg-id="EpicDrama.uk@Ukraine",Epic Drama Ukraine [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/1048/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/wvQYWsj.png" tvg-id="InsideCrime.us@UK",Inside Crime (1080p) [Geo-blocked]
+https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/uazjv8g.png" tvg-id="UAlibi.uk@SD",U&Alibi (576p)
+http://92.114.85.72:8000/play/a0bi
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg" tvg-id="EpicDrama.uk@ROM",Epic Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://dokagents.site/live/epicd/mono.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/uJC8rXr.png" tvg-id="SonyOneBlacklist.fr@HD",Sony One Blacklist (1080p)
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/uJC8rXr.png" tvg-id="SonyOneBlacklist.fr@HD",Sony One Blacklist (1080p)
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" tvg-id="SonyOneSeriesComedie.fr@HD",Sony One Series Comedie (1080p)
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" tvg-id="SonyOneSeriesComedie.fr@HD",Sony One Series Comedie (1080p)
+https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/RVS8LDj.png" tvg-id="SonyOneSeriesThriller.fr@HD",Sony One Series Thriller (1080p)
+https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/RVS8LDj.png" tvg-id="SonyOneSeriesThriller.fr@HD",Sony One Series Thriller (1080p)
+https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg" tvg-id="RTLCrime.de@HD",RTL Crime HD (1080p)
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/OLuCox7.png" tvg-id="ZeeAlwan.ae@SD",Zee Alwan (576p) [Not 24/7]
+https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540" tvg-id="ZeeCafe.in@HD",Zee Cafe HD (1080p)
+http://103.72.101.252:8080/live/1319.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540" tvg-id="ZeeCafe.in@HD",Zee Cafe HD (1080p)
+http://103.229.254.25:7001/play/a0cx/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/QtlnZbq.png" tvg-id="BabAlHara.sa@SD",Bab Al Hara (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" tvg-id="Maraya.sa@HD",Maraya (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" tvg-id="MBCMasrDrama.sa@SD",MBC Masr Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-id="RotanaDrama.sa@SD",Rotana Drama (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/I8YdakH.png" tvg-id="CBCDrama.eg@SD",CBC Drama (576p)
+https://flu.systemnet.tv/CBCDrama/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-id="CNBCe.tr@SD",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" tvg-id="GZT.tr@SD",GZT (1080p)
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/49ZENis.png" tvg-id="3CatPlatsbruts.es@SD",3Cat Plats bruts (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-id="RakutenViki.us@Spain",Rakuten Viki (1080p)
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-id="TVEStar.es@SD",TVE Star (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-id="TVEStar.es@HD",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-id="TVEStar.es@HD",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/1m7kDmc.png" tvg-id="XPTVUS.es@SD",XPTV US (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" tvg-id="Twentyseven.it@SD",27 TwentySeven [Geo-blocked]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/39cSNHs.png" tvg-id="DonnaTV.it@SD",Donna TV (480p)
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/hxF3yhw.png" tvg-id="SuperTV.it@SD",Super TV (720p)
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/hxF3yhw.png" tvg-id="SuperTV.it@SD",Super TV (720p)
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/960px-Top_Crime_-_Logo_2013.svg.png" tvg-id="TopCrime.it@SD",Top Crime [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/2tdMyef.png" tvg-id="AWTV.br@HD",AWTV (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://awtv.com.br
+https://awtv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/Ff5mj0o.png" tvg-id="TVSeries.br@SD",TV Series 1 As Panteras (480p)
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/I0JJySN.png" tvg-id="ParamountNetwork.nl@SD",Paramount Network [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" tvg-id="TVIFiccao.pt@SD",TVI Ficção (720p)
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/MuRtvXk.png" tvg-id="TVPSeriale.pl@SD",TVP Seriale (1080p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7281/index.m3u8
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/Nqvx6nz.png" tvg-id="AXNBlack.pl@SD",AXN Black
+http://81.15.109.89:8001/play/AXNBlack
+
+#EXTINF:-1 group-title="📺 Series & Drama" tvg-logo="https://i.imgur.com/DaAyLE7.png" tvg-id="AXNWhite.pl@SD",AXN White
+http://81.15.109.89:8001/play/AXNWhite
+
