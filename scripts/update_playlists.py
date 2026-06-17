@@ -26,6 +26,7 @@ COUNTRIES = ["id", "kr", "ru", "us", "uk", "qa", "ae", "fr", "de", "in",
 # are included here. Exact name match, case-insensitive.
 WORLD_CUP_2026_BROADCASTERS = {
     "uk": ["BBC One", "BBC Two"],
+    "cz": ["ČT Sport"],
     "fr": ["M6 SD"],
     "it": ["Rai Sport HD", "Rai Sport 2"],
     "es": ["La 1 ("],

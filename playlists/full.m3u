@@ -5091,6 +5091,9 @@ https://x.canlitvapp.com/u-bbc2/index.m3u8
 #EXTINF:-1 group-title="🏆 World Cup 2026 Broadcasters" tvg-id="BBCTwo.uk@HD",BBC Two HD (720p)
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
+#EXTINF:-1 group-title="🏆 World Cup 2026 Broadcasters" tvg-id="CTSport.cz@SD",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
 #EXTINF:-1 group-title="🏆 World Cup 2026 Broadcasters" tvg-id="M6.fr@SD",M6 SD (720p)
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8
 
@@ -5499,9 +5502,6 @@ https://stm.sinalmycn.com/19024/video.m3u8
 
 #EXTINF:-1 group-title="🏆 World Cup / Sports" tvg-id="TVMaticFight.br@SD",TVMatic Fight (720p)
 http://cdn.tvmatic.net/fight.m3u8
-
-#EXTINF:-1 group-title="🏆 World Cup / Sports" tvg-id="CTSport.cz@SD",ČT Sport (720p)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="🏆 World Cup / Sports" tvg-id="InTrouble.nl@SD",InTrouble (1080p) [Geo-blocked]
 https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
