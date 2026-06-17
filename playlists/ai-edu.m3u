@@ -346,3 +346,112 @@ https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CanalSaude.br@SD",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="InWonder.nl@SD",InWonder (1080p) [Geo-blocked]
+https://amg00861-amg00861c14-rlaxx-uk-3954.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CFTUDT.ca@SD",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="KnowledgeNetwork.ca@SD",Knowledge Network (720p) [Geo-blocked]
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="ILCECanal15SummaSaberes.mx@SD",Canal 15 ILCE Summa Sabres (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="JaliscoTV.mx@SD",Jalisco TV (720p)
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="XEIPNTDT.mx@SD",Once México (1080p)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="XHUNESTDT.mx@SD",Señal España (XHUNES-TDT) (720p)
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="XHPBZCTDT2.mx@SD",SET Televisión Canal 26.2 (720p) [Not 24/7]
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TeleUV.mx@SD",Tele UV [Not 24/7]
+https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TVBUAP.mx@SD",TV BUAP (1080p)
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="XHMNLTDT.mx@SD",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TVUG.mx@SD",TV UG (1080p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TVUJAT.mx@SD",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="UACJTV.mx@SD",UACJ-TV [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="UnisonTV.mx@SD",Unison TV (1080p) [Not 24/7]
+https://stream.unison.mx/hls/unisontvatem.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TVCuatro44.mx@SD",TV Cuatro 4.4 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CCTV7.cn@SD",CCTV-7 (720p)
+http://74.91.26.218:82/live/cctv7hd.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CCTV10.cn@SD",CCTV-10 (720p)
+http://74.91.26.218:82/live/cctv10hd.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CCTV10.cn@SD",CCTV-10 (576i)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CCTV17.cn@HD",CCTV-17 (1080p)
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CETV1.cn@SD",CETV1 (576p)
+http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CETV2.cn@SD",CETV2 (576p)
+http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CETV1.cn@SD",CETV-1
+http://121.19.134.246:808/hls/62/index.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="JilinRuralChannel.cn@SD",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="ShanghaiEducationTelevisionStation.cn@SD",Shanghai Education Television Station
+http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="ShandongTVAgriculturalScienceChannel.cn@SD",山东农科 (406p) [Geo-blocked]
+http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="JiangsuEducationalChannel.cn@SD",江苏教育 (576p) [Not 24/7]
+http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="JiangsuEducationalChannel.cn@SD",江苏教育 (576p)
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="ChuzhouScienceEducationChannel.cn@SD",滁州市广播电视台 科教频道 (400p)
+http://live.cztv.cc:85/live/sjpd.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="ChuzhouScienceEducationChannel.cn@SD",滁州科教 (450p)
+http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="ABCEntertains.au@Sydney",ABC Entertains (720p)
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="WildEarth.za@SD",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="WildEarth.za@SD",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="WildEarth.za@SD",WildEarth (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="WildEarth.za@SD",WildEarth (1080p)
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="WildEarth.za@SD",WildEarth (1080p)
+https://wildearth-xumo.amagi.tv/master.m3u8
+

@@ -471,3 +471,93 @@ https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 group-title="🎬 Movies" tvg-id="KuriakosCine.pt@SD",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="KinoBarrandov.cz@SD",Kino Barrandov (720p)
+http://83.167.253.107/hdmi1_ext
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxArthouse.nl@SD",FilmBox Arthouse (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://iptv.prosto.tv/ch63/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxBaltics.nl@SD",FilmBox Baltics (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://iptv.prosto.tv/ch64/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxExtra.nl@Hungary",FilmBox Extra [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6996/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxFamily.nl@Africa",FilmBox Family [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7044/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxPremium.nl@RO",FilmBox Premium [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7043/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxStars.nl@Hungary",FilmBox Stars [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/7045/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="ParamountNetwork.nl@SD",Paramount Network [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBox.nl@Netherlands",FilmBox [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6948/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxPremium.nl@Romania",FilmBox Premium Romania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://dokagents.site/live/filmboxp/mono.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="MyCinemaEurope.ch@SD",My Cinema Europe
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="ServusTV.at@SD",ServusTV (1080p) [Geo-blocked]
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="PolsatFilm.pl@SD",Polsat Film (1080p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6086/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="KinoPolska.pl@SD",Kino Polska (1080p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="AXNPoland.pl@SD",AXN Poland
+http://81.15.109.89:8001/play/AXN
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="AXNWhite.pl@SD",AXN White
+http://81.15.109.89:8001/play/AXNWhite
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="AfghanNobelMovies.ca@SD",Afghan Nobel Movies (720p)
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="NETVToronto.ca@SD",NETV Toronto (720p)
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America
+http://181.119.93.83:8000/play/a1jw/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="CCTV6.cn@HD",CCTV-6 (1080p)
+http://69.30.245.50/live/cctv6.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="CCTV6.cn@HD",CCTV-6 (1080p)
+http://198.204.240.250:82/live/cctv6.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="HarbinMovieChannel.cn@SD",Harbin Movie Channel
+https://stream.hrbtv.net/yspd/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="JiangxiMovieChannel.cn@SD",Jiangxi Movie Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="JilinMovieChannel.cn@SD",Jilin Movie Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="QTV3.cn@SD",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="CHCAction.cn@SD",动作电影 (1080p)
+http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="JiangsuMovieChannel.cn@SD",江苏影视 (576p) [Not 24/7]
+http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="JiangsuMovieChannel.cn@SD",江苏影视 (576p)
+http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movies" tvg-id="CTBPerthMoviesChannel.au@SD",CTB Perth Movies (720p)
+https://movies.ctbperth.net.au/hls/stream.m3u8
+

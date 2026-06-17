@@ -1059,3 +1059,148 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 group-title="☪️ Muslim" tvg-id="TVUniversal.br@SD",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="DieNeueZeitTV.ch@SD",Die Neue Zeit (576p)
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="ImmaculataTV.ch@SD",Immaculata TV (720p)
+https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="RTVIslam.ch@SD",RTV Islam (1080p)
+https://protokolldns.xyz/rtvislamweb554/index.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="RTVPendimi.ch@SD",RTV Pendimi (720p)
+https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="ShivaLiveTV.ch@SD",Shiva Live TV (1080p)
+https://streameurope.ch/live/shivalivetv.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="SivanTV.ch@SD",Sivan TV (1080p)
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="KTV.at@SD",K-TV (720p)
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="KITTV.at@SD",KIT-TV (720p)
+https://everest.pa-hosting.de:3591/live/joseflive.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="ADBTV.pt@SD",ADB TV (1080p)
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="KuriakosTV.pt@SD",Kuriakos TV (1080p)
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="ManaChurchOnline.pt@SD",Maná Church Online (1080p) [Not 24/7]
+https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="ManaCirkevOnline.pt@SD",Maná Cirkev Online (1080p) [Not 24/7]
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="ManaEgliseOnline.pt@SD",Maná Église Online (1080p) [Not 24/7]
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="ManaIglesiaOnline.pt@SD",Maná Iglesia Online (1080p) [Not 24/7]
+https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="ManaIgrejaOnline.pt@SD",Maná Igreja Online (1080p) [Not 24/7]
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="ManaTserkovOnlayn.pt@SD",Maná Tserkov' Onlayn (1080p) [Not 24/7]
+https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="TVMana1.pt@SD",TV Maná 1 (1080p)
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="TVMana2.pt@SD",TV Maná 2 (1080p)
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="TVManaBrasil.pt@SD",TV Maná Brasil (1080p)
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="TVManaEnglish.pt@SD",TV Maná English (1080p)
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="TVManaEspanhol.pt@SD",TV Maná Español (1080p)
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="TVManaRusskiy.pt@SD",TV Maná Russkiy (1080p)
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="WayTV.pt@SD",Way TV
+https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="AmazingDiscoveriesTV.ca@SD",Amazing Discoveries TV (720p)
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="EMCITVAmerica.ca@SD",EMCI TV America (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciamerique.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="ErfanHalghehTV.ca@SD",Erfan Halgheh TV (720p)
+https://hls.erfanhalgheh.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="GurSikhSabhaTV.ca@SD",GurSikh Sabha TV (720p) [Not 24/7]
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="IIPCTV.ca@SD",IIPC TV (720p)
+https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="IIPCTV.ca@SD",IIPC TV (480p) [Geo-blocked]
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="QuoVadisTV.ca@SD",Quo Vadis TV (720p)
+https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="RadioTeleEvangileSansLimite.ca@SD",Radio Tele Evangile Sans Limite
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="AlcanceTV.mx@SD",Alcance TV (720p)
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="BAMOSTV.mx@SD",BAMOS TV (1080p) [Not 24/7]
+https://video2.getstreamhosting.com:19360/8092/8092.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="MariaVision.mx@SD",María Visión Mexico (360p) [Not 24/7]
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="MonteMaria.mx@SD",Monte Maria (1080p)
+https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="RadioyTelevisionCrisoldelaAlegria.mx@SD",Radio y Televisión Crisol de la Alegría (1080p) [Not 24/7]
+https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="AndoTV.cn@SD",Ando TV (1080p)
+http://play.kankanlive.com/live/1711956137852982.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="CGNTVJapan.jp@SD",CGNTV Japan (1080p)
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="HopeChannelAustralia.au@SD",Hope Channel Australia (1080p)
+https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="GNFTV.za@SD",GNF TV (576p)
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="HomebaseTV.za@SD",Homebase TV (576p) [Not 24/7]
+https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="HomebaseTV.za@SD",Homebase TV (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="HopeChannelAfrica.za@SD",Hope Channel Africa (1080p)
+https://jstre.am/live/jsl:i1onRBELcGV.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="LoveworldSAT.ng@SD",LoveworldSAT (1080p)
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="LoveworldSAT.ng@SD",LoveworldSAT
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="RedemptionTelevisionMinistry.za@SD",Redemption TV Ministry (720p)
+https://live.nixsat.com/play/rtm/index.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="RLWTV.za@SD",RLW TV (576p) [Not 24/7]
+https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
+
+#EXTINF:-1 group-title="☪️ Muslim" tvg-id="SeraphimTV.za@SD",Seraphim TV [Not 24/7]
+https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
+

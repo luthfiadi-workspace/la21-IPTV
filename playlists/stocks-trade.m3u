@@ -151,3 +151,33 @@ https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="ClassCNBC.it@SD",Class CNBC
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8
 
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CanalZ.be@SD",Trends Z (1080p)
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="KanaalZ.be@SD",Trends Z (1080p)
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="TelewizjaBiznesowa.pl@SD",Telewizja Biznesowa (1080p)
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BNNBloomberg.ca@SD",BNN Bloomberg
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="CCTV2.cn@SD",CCTV-2 (720p)
+http://74.91.26.218:82/live/cctv2hd.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="JiangxiEconomyLifeChannel.cn@SD",Jiangxi Economy & Life Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="XuzhouEconomicLifeChannel.cn@SD",徐州經濟生活 (1080p)
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="XianBusinessInformationChannel.cn@SD",西安商务资讯 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="AusbizTV.au@SD",ausbiz TV (720p) [Not 24/7]
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+
+#EXTINF:-1 group-title="📈 Stocks & Trade" tvg-id="BloombergTV.us@Australia",Bloomberg TV Australia (270p)
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+

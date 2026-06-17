@@ -723,3 +723,269 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Music" tvg-id="TikTokRadioBrasil.br@HD",TikTok Radio Brasil (1080p)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 
+#EXTINF:-1 group-title="🎵 Music" tvg-id="Ocko.cz@SD",Óčko (540p)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="Ocko.cz@SD",Óčko (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="OckoExpres.cz@SD",Óčko Expres (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="OckoGold.cz@SD",Óčko Gold (540p) [Geo-blocked]
+https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="OckoGold.cz@SD",Óčko Gold (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="RetroMusicTV.cz@SD",Retro Music Television (360p)
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="RetroMusicTV.cz@SD",Retro Music TV (360p)
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="RetroMusicTV.cz@SD",RetroMusicTV (360p)
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="SlagerMuzika.cz@SD",Slager Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="SlagerOriginal.cz@SD",Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="360TuneBox.nl@SD",360TuneBox (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://iptv.prosto.tv/ch141/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="BEATTV.nl@SD",BE@TTV (1080p)
+https://tv.beatfm.nl/live.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="DanceTelevision.nl@SD",Dance Television (1080p)
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="DeepHouseDistrict.nl@SD",DeepHouse District (1080p)
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="FomixTV.nl@HD",FomixTV (1080p)
+#EXTVLCOPT:http-referrer=https://www.fomix.nl
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="GigantFM.nl@SD",Gigant FM (720p)
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="HypeVisualRadio.nl@SD",Hype Visual Radio (1080p)
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="Qmusic.nl@SD",Qmusic (720p)
+https://stream.qmusic.nl/qmusic/videohls.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="Qmusic.nl@SD",Qmusic (Netherlands) (720p)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="RadioJND.nl@SD",Radio JND (1080p)
+https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="RadioStaddenHaag.nl@SD",Radio Stad den Haag (720p)
+https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="RadioNLTV.nl@SD",RadioNL TV (1080p) [Not 24/7]
+https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="Rararadio.nl@SD",Rararadio (720p)
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="SaltoBrasaMusic.nl@SD",Salto Brasa Music (1080p)
+https://salto-streams.nl/hls/sotv1.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="XITE.nl@SD",XITE (720p) [Not 24/7]
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="XITE.nl@SD",XITE (720p) [Not 24/7]
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="XITEHits.nl@Germany",XITE Hits Germany (1080p)
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="XITEHits.nl@UK",XITE Hits UK (1080p)
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="XITERockxMetal.nl@US",XITE Rock x Metal (1080p) [Geo-blocked]
+https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="ZFMZoetermeerTV.nl@SD",ZFM Zoetermeer (720p)
+https://zfmzoetermeer.nl/live/master.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="Couleur3.ch@SD",Couleur 3 (720p)
+https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="RADIODISCOuntTV.ch@SD",RADIO DISCOunt TV (1080p)
+https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="AntenneKaernten.at@SD",Antenne Kaernten (720p)
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="AntenneSteiermark.at@SD",Antenne Steiermark (720p)
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="AntenneVorarlberg.at@SD",Antenne Vorarlberg (720p) [Not 24/7]
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="AntenneVorarlberg.at@SD",Antenne Vorarlberg (720p) [Not 24/7]
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="HitradioO3.at@SD",Hitradio O3 (720p)
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="HitradioO3.at@SD",Hitradio O3 (720p)
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="HitradioO3.at@SD",Hitradio Ö3 (720p) [Not 24/7]
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="Kronehit.at@SD",Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="BelRTL.be@SD",Bel RTL (1080p)
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="JoeFM.be@SD",Joe FM (720p) [Not 24/7]
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="MNM.be@SD",MNM (720p)
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="MNM.be@SD",MNM (720p)
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="QMusic.be@SD",Q-Music (Belgium) (1080p)
+https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="RadioContact.be@SD",Radio Contact (1080p)
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="Klara.be@SD",VRT Radio Klara (720p)
+https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="Klara.be@SD",VRT Radio Klara (720p)
+https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="StuBru.be@SD",VRT Radio StuBru (720p)
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="StuBru.be@SD",VRT Radio StuBru (720p)
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="FunVision.be@SD",Fun Vision
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="Famatv.pt@SD",Famatv (1080p) [Not 24/7]
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="KuriakosMusic.pt@SD",Kuriakos Music (1080p)
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="NPCRadioeTV.pt@SD",NPC Rádio e TV (720p)
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="ONFM.pt@SD",ON FM (720p)
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="RFPtv.pt@SD",RFPtv (360p)
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="4FunTV.pl@SD",4 Fun TV (576i) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="4FunTV.pl@SD",4 Fun TV (288p) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="BTBMusic.pl@HD",BTB Music (1080p)
+https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="EskaRockTV.pl@SD",Eska Rock TV (1080p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19172/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="EskaTV.pl@SD",Eska TV (1080p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19174/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="EskaTVExtra.pl@SD",Eska TV Extra (1080p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19173/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="MusicBoxPolska.pl@SD",Music Box Polska [Geo-blocked]
+https://vs2133.vcdn.biz/0f0f85e2ea3607b5c396ef68d55c3168_megogo/live/hls/b/4000/u_sid/0/o/156751011/rsid/062147ff-ed0c-4d9c-a131-2bf42026e640/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/57.128.235.172*asn/type.live/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="NutaTV.pl@SD",Nuta TV
+http://78.130.250.2:8023/play/a03r/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="RadioRAM.pl@HD",Radio RAM (1080p)
+https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="VOXMusicTV.pl@SD",VOX Music TV (1080p)
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19171/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="DiscoPoloMusic.pl@SD",Disco Polo Music (1080p)
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19169/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="EskaTV.pl@SD",Eska TV (1080p)
+http://91.246.72.88:8000/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="EskaTVExtra.pl@SD",Eska TV Extra (1080p)
+http://81.15.109.89:8001/play/EskaTVExtra
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="EskaRockTV.pl@SD",Eska Rock TV (1080p)
+http://81.15.109.89:8001/play/EskaRock
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="iTVAfrobeatsMusic.ca@HD",iTV Afrobeats Music
+https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="iTVArabicMusic.ca@HD",iTV Arabic Music
+https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="iTVIndianMusic.ca@HD",iTV Indian Music
+https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="iTVLatinMusic.ca@HD",iTV Latin Music
+https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="iTVTurkishMusic.ca@HD",iTV Turkish Music
+https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="iTVUrbanMusic.ca@HD",iTV Urban Music
+https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="CKNOFM.ca@SD",Now TV 102.3FM Edmonton (CKNO-FM) (616p)
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="PamirTV.ca@SD",Pamir TV (1080p) [Not 24/7]
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="StingrayRememberthe80s.ca@SD",Stingray Remember the 80s
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="ConectaTV.mx@SD",Conecta TV (720p)
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="LoboTV.mx@SD",Lobo TV (720p)
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="TelehitMusica.mx@SD",Telehit Musica
+http://190.61.55.34:2401/play/a06t/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="VisionTelevision.mx@SD",Visión Televisión (720p)
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="CCTV11.cn@SD",CCTV-11 (720p)
+http://74.91.26.218:82/live/cctv11hd.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="CCTV11.cn@SD",CCTV-11
+https://xykt-fix.github.io/play/a02b/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="CCTV15.cn@SD",CCTV-15 (1080p)
+https://xykt-fix.github.io/play/a02e/index.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="CCTV15.cn@SD",CCTV-15 (720p)
+http://74.91.26.218:82/live/cctv15hd.m3u8
+
+#EXTINF:-1 group-title="🎵 Music" tvg-id="BOKTV.za@SD",BOKTV (720p) [Not 24/7]
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+
