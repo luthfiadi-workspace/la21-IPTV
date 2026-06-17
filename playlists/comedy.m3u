@@ -1,0 +1,64 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="TvoyeTVYumor.ru@SD",Твое ТВ Юмор (1080p)
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="CameraSmileTV.us@SD",Camera Smile (480p)
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="ComedyCentral.us@East",Comedy Central (1080p)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central Latin America (1080p)
+http://181.119.93.83:8000/play/a1di/index.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="JustforLaughsGags.us@SD",Just for Laughs Gags (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="SNLVault.us@SD",SNL Vault (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="SNLVault.us@SD",SNL Vault (1080p)
+https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="TVSComedyNetwork.us@SD",TVS Comedy Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="UniversalComedy.us@SD",Universal Comedy (480p)
+http://190.2.212.209:8050/play/a0q4
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="MrBeanLiveAction.uk@English",Mr Bean Live Action (1080p)
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="ComedyCentral.de@SD",Comedy Central [Not 24/7]
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31302/index.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="ETVComedy.in@HD",ETV Comedy (1080p)
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="SirippoliTV.in@SD",Sirippoli TV (576p)
+http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="SirippoliTV.in@SD",Sirippoli TV (576p)
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="ZeeComedyNation.in@HD",Zee Comedy Nation (1080p)
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="RotanaComedy.sa@SD",Rotana Comedy (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="3CatElbunquer.es@SD",3Cat El búnquer (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="3CatPlatsbruts.es@SD",3Cat Plats bruts (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="ForaTedioTV.br@SD",Fora Tedio TV (720p)
+#EXTVLCOPT:http-referrer=https://www.foratedio.com
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+
+#EXTINF:-1 group-title="😂 Comedy" tvg-id="TVMaticComedy.br@SD",TVMatic Comedy (720p)
+http://cdn.tvmatic.net/comedy.m3u8
+
