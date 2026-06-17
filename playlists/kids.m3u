@@ -1,0 +1,309 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Ananda.id@HD",Ananda (1080p)
+#EXTVLCOPT:http-referrer=https://anandatelkomvision.renderforestsites.com/
+https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="BiznetKids.id@SD",Biznet Kids (1080p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="KidsTV.id@SD",Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="MAXKids.id@SD",MAX Kids
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="MyKidz.id@SD",My Kidz (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="VTV.id@SD",VTV (1080p)
+http://103.66.62.83:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="VTV.id@SD",VTV (720p)
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="EBSKids.kr@SD",EBS kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="BabyTime.ru@SD",Baby Time
+http://89.218.32.179:18000/play/a028
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="GulliGirl.ru@SD",Gulli Girl (720p)
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Multilandia.ru@SD",Multilandia
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Nicktoons.ru@SD",Nicktoons [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/849/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Ryzhiy.ru@SD",Ryzhiy (576i)
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TiJi.ru@SD",TiJi (576p)
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Multimania.ru@SD",Мультимания (576p)
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Multimania.ru@SD",Мультимания ТВ (576p)
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="SmileTV.ru@SD",Смайл ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Solnce.ru@SD",Солнце (576p)
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Tamyr.ru@SD",Тамыр (Уфа)
+https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="AghapyKids.us@SD",Aghapy Kids (1080p)
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="BratTV.us@SD",Brat TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="CampSpoopy.us@SD",Camp Spoopy (576p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="ChristianYouthChannelCYC.us@SD",Christian Youth Channel (CYC) (1080p)
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="ChristianYouthChannelCYC.us@SD",Christian Youth Channel (CYC) (1080p)
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="DisneyJunior.us@East",Disney Junior (1080i)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="DisneyXD.us@East",Disney XD (720p)
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="KetchupTV.us@SD",Ketchup TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="MBC3USA.us@SD",MBC 3 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Nickelodeon.us@East",Nickelodeon (1080p)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Nickelodeon.us@East",Nickelodeon (576i)
+http://79.127.207.193/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="PBSKids.us@SD",PBS Kids (720p)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="PBSKidsHawaii.us@SD",PBS Kids Hawaii (720p)
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="SkwadPlay.us@SD",SKWAD (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="ToonGoggles.us@SD",Toon Goggles (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TVSHiTops.us@SD",TVS Hi Tops (720p)
+https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TVSPinballNetwork.us@SD",TVS Pinball Network (480p)
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="WatchitKID.us@SD",Watch it KID! (480i)
+https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="WJLP332.us@SD",WJLP-DT2 (360p)
+https://e3.thetvapp.to/hls/metv-toons/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="BabyTV.uk@Spain",BabyTV Spain (1080p)
+https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="BabyTV.uk@Turkiye",BabyTV Turkiye (1080p) [Geo-blocked]
+https://saran-live.ercdn.net/babytv/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="CBeebies.uk@SD",CBeebies
+https://x.canlitvapp.com/u-cbeebies/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="CBeebiesAsia.uk@SD",CBeebies Asia (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="JimJamEurope.uk@SD",JimJam Europe (576p)
+http://158.160.149.81:8080/269/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="MrBeanLiveAction.uk@English",Mr Bean Live Action (1080p)
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="NickelodeonGlobal.uk@SD",Nickelodeon Global (576p)
+http://46.149.191.217:9011/play/a018
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="NickelodeonGlobal.uk@SD",Nickelodeon Global (576p)
+http://tmptv.sunduk.tv/CH37/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TinyPop.uk@SD",Tiny Pop (1080p)
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TinyPop.uk@SD",Tiny Pop (1080p)
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TinyPop.uk@SD",Tiny Pop (576p)
+http://92.114.85.72:8000/play/a08g
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TinyPop.uk@Plus1",Tiny Pop +1 (576p)
+http://92.114.85.72:8000/play/a08p
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="SpacetoonArabic.ae@SD",Spacetoon Arabic (576p)
+#EXTVLCOPT:http-referrer=https://spacetoon.com
+https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="DisneyJr.fr@SD",Disney Jr. (1080p)
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Gulli.fr@SD",Gulli
+https://test.946985.filegear-sg.me/proxy/7e0a9ae6a27eee96
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Nickelodeon.fr@SD",Nickelodeon (1080p)
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="NickelodeonJunior.fr@SD",Nickelodeon Junior (1080p)
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="France4.fr@HD",France 4 HD (1080p)
+https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="KiKA.de@SD",KiKA (1080p) [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="KiKA.de@SD",KiKA (1080p) [Not 24/7]
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Nickelodeon.de@SD",Nick Germany (1080p) [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Nickelodeon.de@SD",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Nickelodeon.de@SD",Nickelodeon Deutschland [Geo-blocked]
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="RiC.de@SD",RiC (1080p)
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="DisneyInternationalHD.in@SD",Disney International HD (1080p)
+http://149.71.34.166:8002/play/a01p/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="DisneyJunior.in@SD",Disney Junior (576p)
+http://149.71.34.166:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="HungamaTV.in@SD",Hungama TV (576p)
+http://149.71.34.166:8000/play/a075/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="NickHDPlus.in@HD",Nick HD+ (1080p)
+http://103.72.101.252:8080/live/1226.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Nickelodeon.in@SD",Nickelodeon (576p)
+http://149.71.34.166:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="SonyYay.in@SD",Sony Yay! (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY+YAY.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="ZBCartoon.in@HD",ZB Cartoon (1080p)
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="AtfalMawahebTV.sa@SD",Atfal & Mawaheb TV (1080p)
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="AtfalMawahebTV.sa@SD",Atfal & Mawaheb TV (1080p)
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="KoogiTV.eg@SD",Koogi TV (1080p)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="KidsZone.pk@SD",Kids Zone (720p)
+http://103.250.28.74:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Minimax.pk@SD",Minimax (360p)
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="DisneyJr.tr@SD",Disney Jr. (1080p) [Geo-blocked]
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="MinikaCocuk.tr@SD",Minika Cocuk (480p)
+https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="MinikaGo.tr@SD",Minika Go (480p)
+https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TRTCocuk.tr@SD",TRT Çocuk (720p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TRTDiyanetCocuk.tr@SD",TRT Diyanet Çocuk (720p)
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="MinikaCocuk.tr@SD",Minika Cocuk (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="MinikaGo.tr@SD",Minika Go (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Clan.es@SD",Clan (720p) [Geo-blocked]
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="ClanInternacional.es@SD",Clan Internacional Americas (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Clan.es@SD",Clan TVE (1080p) [Geo-blocked]
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="DisneyJunior.es@SD",Disney Junior (576p)
+https://bbb.exoadash.com/TVD1561/index.mpd
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="LogosTVKids.es@SD",Logos TV Kids (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Nickelodeon.es@SD",Nickelodeon (1080p)
+https://xykt-fix.github.io/iptv/streams/SP57.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="SX3.es@SD",SX3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="SX3.es@SD",SX3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="BeJoykids.it@HD",BeJoy.kids (1080p)
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="IuniorTV.it@SD",Iunior TV (1080p)
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="IuniorTV.it@SD",Iunior TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="RaiYoyo.it@SD",Rai YoYo (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Gloob.br@SD",Gloob (576p)
+http://45.235.0.78/Gloob/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Gloob.br@SD",Gloob
+http://79.127.243.211:14436/_.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="GloobWeb.br@SD",Gloob Web [Not 24/7]
+https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="KuriakosKids.pt@SD",Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="NickOnline.br@SD",NickOnline (360p)
+https://x1co.com.br/hls/stream.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="NickToonsBrasil.br@SD",NickToons Brasil (480p)
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="NickWeb.br@SD",NickWeb (720p)
+https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="Slime.br@SD",Slime (576p) [Not 24/7]
+https://slime.x1co.com.br/hls/stream.m3u8
+

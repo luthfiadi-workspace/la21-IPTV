@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
-# General sports channels that commonly broadcast football/World Cup matches. Exclusive World Cup rights are usually geo-restricted/paid; this list is general free-to-air sports coverage.
+# General sports channels that commonly broadcast football/World Cup matches. Exclusive World Cup rights are usually geo-restricted/paid; this is general free-to-air sports coverage.
 
 #EXTINF:-1 group-title="🏆 World Cup / Sports" tvg-id="MAXSports.id@SD",MAX Sports
 #EXTVLCOPT:http-referrer=maxstream.tv/tv-channels

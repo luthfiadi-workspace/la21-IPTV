@@ -1,348 +1,348 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="RinjaniTV.id@SD",Rinjani TV
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="RinjaniTV.id@SD",Rinjani TV
 https://rinjanitv.cloud/hls/tvkabel.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="TheIndonesiaChannel.id@SD",The Indonesia Channel (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TheIndonesiaChannel.id@SD",The Indonesia Channel (1080p)
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EBS1TV.kr@SD",EBS 1 (400p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EBS1TV.kr@SD",EBS 1 (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EBS1TV.kr@SD",EBS 1 (400p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EBS1TV.kr@SD",EBS 1 (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EBS2TV.kr@SD",EBS 2 (400p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EBS2TV.kr@SD",EBS 2 (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EBSEnglish.kr@SD",EBS E (400p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EBSEnglish.kr@SD",EBS E (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EBSPlus1.kr@SD",EBS+ 1 (400p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EBSPlus1.kr@SD",EBS+ 1 (400p)
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EBSPlus2.kr@SD",EBS+ 2 (400p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EBSPlus2.kr@SD",EBS+ 2 (400p)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="NBS.kr@SD",NBS Korea Agricultural Broadcasting (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="NBS.kr@SD",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="OUN.kr@SD",OUN (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="OUN.kr@SD",OUN (1080p)
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="Doctor.ru@SD",Doctor (576i)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="Doctor.ru@SD",Doctor (576i)
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="MosObrTV.ru@SD",МосОбрТВ (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="MosObrTV.ru@SD",МосОбрТВ (720p)
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="MosObrTV.ru@SD",МосОбрТВ (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="MosObrTV.ru@SD",МосОбрТВ (720p)
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="DaVinci.ru@SD",Da Vinci
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="DaVinci.ru@SD",Da Vinci
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="AyenehTV.us@SD",Ayeneh TV
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="AyenehTV.us@SD",Ayeneh TV
 https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="ClassicArtsShowcase.us@SD",Classic Arts Showcase (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="ClassicArtsShowcase.us@SD",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="CloudflareTV.us@SD",Cloudflare TV (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CloudflareTV.us@SD",Cloudflare TV (720p)
 https://cloudflare.tv/hls/live.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="Create.us@SD",Create (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="Create.us@SD",Create (1080p)
 https://create.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="DerryTV23.us@SD",DerryTV 23 (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="DerryTV23.us@SD",DerryTV 23 (720p)
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="MonroeCommunityMediaEducationChannel.us@SD",Monroe Community Media Education Channel
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="MonroeCommunityMediaEducationChannel.us@SD",Monroe Community Media Education Channel
 https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="NashuaETV.us@SD",Nashua ETV Channel 22 Nashua NH (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="NashuaETV.us@SD",Nashua ETV Channel 22 Nashua NH (720p)
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="NatickEducationChannel.us@SD",Natick Education Channel (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="NatickEducationChannel.us@SD",Natick Education Channel (720p)
 https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="PayamJavanTV.us@SD",Payam Javan TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="PayamJavanTV.us@SD",Payam Javan TV (720p) [Not 24/7]
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="PBSKids.us@SD",PBS Kids (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="PBSKids.us@SD",PBS Kids (720p)
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="PBSKidsHawaii.us@SD",PBS Kids Hawaii (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="PBSKidsHawaii.us@SD",PBS Kids Hawaii (720p)
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="TheSoutheasternChannel.us@SD",The Southeastern Channel (540p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TheSoutheasternChannel.us@SD",The Southeastern Channel (540p)
 http://147.174.13.196/live/live.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="TUTV.us@SD",TUTV (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TUTV.us@SD",TUTV (1080p)
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="WorldChannel.us@SD",World Channel (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="WorldChannel.us@SD",World Channel (1080p)
 https://world.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="AlHiwarTV.uk@SD",Alhiwar TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="AlHiwarTV.uk@SD",Alhiwar TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EnglishClubTV.uk@SD",English Club TV (576i)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EnglishClubTV.uk@SD",English Club TV (576i)
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="ARDalpha.de@SD",ARD-alpha (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="ARDalpha.de@SD",ARD-alpha (720p) [Not 24/7]
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="ARDalpha.de@SD",ARD-alpha (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="ARDalpha.de@SD",ARD-alpha (720p)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="DaVinciAsia.de@Vietnam",Da Vinci Asia Vietnam
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="DaVinciAsia.de@Vietnam",Da Vinci Asia Vietnam
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="iSTUFF.de@SD",iSTUFF (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="iSTUFF.de@SD",iSTUFF (720p) [Not 24/7]
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="NRWision.de@SD",NRWision (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="NRWision.de@SD",NRWision (1080p)
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="DigiShala.in@SD",Digi Shala (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="DigiShala.in@SD",Digi Shala (576p)
 http://103.72.101.252:8080/live/1227.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya1.in@SD",E-Vidya 1 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya1.in@SD",E-Vidya 1 (576p)
 http://103.72.101.252:8080/live/400.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya2.in@SD",E-Vidya 2 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya2.in@SD",E-Vidya 2 (576p)
 http://103.72.101.252:8080/live/402.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya3.in@SD",E-Vidya 3 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya3.in@SD",E-Vidya 3 (576p)
 http://103.72.101.252:8080/live/405.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya4.in@SD",E-Vidya 4 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya4.in@SD",E-Vidya 4 (576p)
 http://103.72.101.252:8080/live/406.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya5.in@SD",E-Vidya 5 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya5.in@SD",E-Vidya 5 (576p)
 http://103.72.101.252:8080/live/407.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya6.in@SD",E-Vidya 6 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya6.in@SD",E-Vidya 6 (576p)
 http://103.72.101.252:8080/live/408.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya7.in@SD",E-Vidya 7 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya7.in@SD",E-Vidya 7 (576p)
 http://103.72.101.252:8080/live/404.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya8.in@SD",E-Vidya 8 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya8.in@SD",E-Vidya 8 (576p)
 http://103.72.101.252:8080/live/409.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya9.in@SD",E-Vidya 9 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya9.in@SD",E-Vidya 9 (576p)
 http://103.72.101.252:8080/live/410.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya10.in@SD",E-Vidya 10 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya10.in@SD",E-Vidya 10 (576p)
 http://103.72.101.252:8080/live/411.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya11.in@SD",E-Vidya 11 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya11.in@SD",E-Vidya 11 (576p)
 http://103.72.101.252:8080/live/1410.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="EVidya12.in@SD",E-Vidya 12 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="EVidya12.in@SD",E-Vidya 12 (576p)
 http://103.72.101.252:8080/live/1532.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="KiteVicters.in@SD",KITE Victers (Kerala) (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="KiteVicters.in@SD",KITE Victers (Kerala) (720p) [Not 24/7]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="MediBizTV.in@SD",MediBizTV (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="MediBizTV.in@SD",MediBizTV (720p)
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha1.in@SD",Swayam Prabha 1 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha1.in@SD",Swayam Prabha 1 (576p)
 http://103.72.101.252:8080/live/980.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha3.in@SD",Swayam Prabha 3 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha3.in@SD",Swayam Prabha 3 (576p)
 http://103.72.101.252:8080/live/982.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha4.in@SD",Swayam Prabha 4 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha4.in@SD",Swayam Prabha 4 (576p)
 http://103.72.101.252:8080/live/984.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha5.in@SD",Swayam Prabha 5 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha5.in@SD",Swayam Prabha 5 (576p)
 http://103.72.101.252:8080/live/986.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha6.in@SD",Swayam Prabha 6 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha6.in@SD",Swayam Prabha 6 (576p)
 http://103.72.101.252:8080/live/987.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha7.in@SD",Swayam Prabha 7 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha7.in@SD",Swayam Prabha 7 (576p)
 http://103.72.101.252:8080/live/985.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha8.in@SD",Swayam Prabha 8 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha8.in@SD",Swayam Prabha 8 (576p)
 http://103.72.101.252:8080/live/983.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha9.in@SD",Swayam Prabha 9 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha9.in@SD",Swayam Prabha 9 (576p)
 http://103.72.101.252:8080/live/988.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha10.in@SD",Swayam Prabha 10 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha10.in@SD",Swayam Prabha 10 (576p)
 http://103.72.101.252:8080/live/989.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha11.in@SD",Swayam Prabha 11 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha11.in@SD",Swayam Prabha 11 (576p)
 http://103.72.101.252:8080/live/990.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha12.in@SD",Swayam Prabha 12 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha12.in@SD",Swayam Prabha 12 (576p)
 http://103.72.101.252:8080/live/991.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha13.in@SD",Swayam Prabha 13 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha13.in@SD",Swayam Prabha 13 (576p)
 http://103.72.101.252:8080/live/992.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha14.in@SD",Swayam Prabha 14 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha14.in@SD",Swayam Prabha 14 (576p)
 http://103.72.101.252:8080/live/993.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha15.in@SD",Swayam Prabha 15 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha15.in@SD",Swayam Prabha 15 (576p)
 http://103.72.101.252:8080/live/995.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha16.in@SD",Swayam Prabha 16 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha16.in@SD",Swayam Prabha 16 (576p)
 http://103.72.101.252:8080/live/994.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha17.in@SD",Swayam Prabha 17 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha17.in@SD",Swayam Prabha 17 (576p)
 http://103.72.101.252:8080/live/996.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha18.in@SD",Swayam Prabha 18 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha18.in@SD",Swayam Prabha 18 (576p)
 http://103.72.101.252:8080/live/999.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha19.in@SD",Swayam Prabha 19 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha19.in@SD",Swayam Prabha 19 (576p)
 http://103.72.101.252:8080/live/401.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha20.in@SD",Swayam Prabha 20 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha20.in@SD",Swayam Prabha 20 (576p)
 http://103.72.101.252:8080/live/403.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha21.in@SD",Swayam Prabha 21 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha21.in@SD",Swayam Prabha 21 (576p)
 http://103.72.101.252:8080/live/997.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SwayamPrabha22.in@SD",Swayam Prabha 22 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SwayamPrabha22.in@SD",Swayam Prabha 22 (576p)
 http://103.72.101.252:8080/live/998.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat1.in@SD",Vande Gujarat 1 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat1.in@SD",Vande Gujarat 1 (576p)
 http://103.72.101.252:8080/live/1069.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat2.in@SD",Vande Gujarat 2 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat2.in@SD",Vande Gujarat 2 (576p)
 http://103.72.101.252:8080/live/1070.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat3.in@SD",Vande Gujarat 3 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat3.in@SD",Vande Gujarat 3 (576p)
 http://103.72.101.252:8080/live/1082.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat4.in@SD",Vande Gujarat 4 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat4.in@SD",Vande Gujarat 4 (576p)
 http://103.72.101.252:8080/live/1071.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat5.in@SD",Vande Gujarat 5 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat5.in@SD",Vande Gujarat 5 (576p)
 http://103.72.101.252:8080/live/1083.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat6.in@SD",Vande Gujarat 6 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat6.in@SD",Vande Gujarat 6 (576p)
 http://103.72.101.252:8080/live/1084.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat7.in@SD",Vande Gujarat 7 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat7.in@SD",Vande Gujarat 7 (576p)
 http://103.72.101.252:8080/live/1085.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat8.in@SD",Vande Gujarat 8 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat8.in@SD",Vande Gujarat 8 (576p)
 http://103.72.101.252:8080/live/1086.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat9.in@SD",Vande Gujarat 9 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat9.in@SD",Vande Gujarat 9 (576p)
 http://103.72.101.252:8080/live/1087.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat10.in@SD",Vande Gujarat 10 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat10.in@SD",Vande Gujarat 10 (576p)
 http://103.72.101.252:8080/live/1088.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat11.in@SD",Vande Gujarat 11 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat11.in@SD",Vande Gujarat 11 (576p)
 http://103.72.101.252:8080/live/1089.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat12.in@SD",Vande Gujarat 12 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat12.in@SD",Vande Gujarat 12 (576p)
 http://103.72.101.252:8080/live/1090.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat13.in@SD",Vande Gujarat 13 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat13.in@SD",Vande Gujarat 13 (576p)
 http://103.72.101.252:8080/live/1091.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat14.in@SD",Vande Gujarat 14 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat14.in@SD",Vande Gujarat 14 (576p)
 http://103.72.101.252:8080/live/1092.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat15.in@SD",Vande Gujarat 15 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat15.in@SD",Vande Gujarat 15 (576p)
 http://103.72.101.252:8080/live/1093.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VandeGujarat16.in@SD",Vande Gujarat 16 (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VandeGujarat16.in@SD",Vande Gujarat 16 (576p)
 http://103.72.101.252:8080/live/1094.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VyasChannel.in@SD",Vyas NIC (576p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VyasChannel.in@SD",Vyas NIC (576p)
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="VyasChannel.in@SD",Vyas NIC (480p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="VyasChannel.in@SD",Vyas NIC (480p)
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="AsharqDiscovery.sa@SD",Asharq Discovery (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="AsharqDiscovery.sa@SD",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="PaighanTV.pk@SD",Paighan TV (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="PaighanTV.pk@SD",Paighan TV (1080p)
 http://116.90.120.151:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="CiftciTV.tr@SD",Çiftçi TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CiftciTV.tr@SD",Çiftçi TV (1080p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="CiftciTV.tr@SD",Çiftçi TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CiftciTV.tr@SD",Çiftçi TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="TRTEBAIlkokul.tr@SD",TRT EBA Ilkokul (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TRTEBAIlkokul.tr@SD",TRT EBA Ilkokul (720p)
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="TRTEBALise.tr@SD",TRT EBA Lise (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TRTEBALise.tr@SD",TRT EBA Lise (720p)
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="TRTEBA.tr@SD",TRT EBA Ortaokul (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TRTEBA.tr@SD",TRT EBA Ortaokul (720p)
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="WomanTV.tr@SD",Woman TV (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="WomanTV.tr@SD",Woman TV (1080p)
 https://embedlp.becdn.net/womantv.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="PlatziTV.es@SD",Platzi TV (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="PlatziTV.es@SD",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="RaiScuola.it@SD",Rai Scuola (576p) [Geo-blocked]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="RaiScuola.it@SD",Rai Scuola (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="RaiScuola.it@HD",Rai Scuola HD (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="RaiScuola.it@HD",Rai Scuola HD (1080p)
 https://srv1.adriatelekom.com/RaiScuola/index.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="Telepace3.it@SD",Telepace 3 (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="Telepace3.it@SD",Telepace 3 (1080p)
 https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="CanalEducacao.br@SD",Canal Educação (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CanalEducacao.br@SD",Canal Educação (720p)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="CanalSaude.br@SD",Canal Saúde (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CanalSaude.br@SD",Canal Saúde (720p) [Not 24/7]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="ISTV.br@SD",ISTV (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="ISTV.br@SD",ISTV (720p) [Not 24/7]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="RedeMinas.br@SD",Rede Minas (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="RedeMinas.br@SD",Rede Minas (1080p) [Not 24/7]
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SantaCeciliaTV.br@SD",Santa Cecilia TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SantaCeciliaTV.br@SD",Santa Cecilia TV (1080p) [Not 24/7]
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="SantaCeciliaTV.br@SD",Santa Cecilia TV (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="SantaCeciliaTV.br@SD",Santa Cecilia TV (1080p)
 https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="TVMackenzie.br@SD",TV Mackenzie (480p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TVMackenzie.br@SD",TV Mackenzie (480p)
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="TVUFG.br@SD",TV UFG (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TVUFG.br@SD",TV UFG (720p) [Not 24/7]
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="TVUFOP.br@HD",TV UFOP (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TVUFOP.br@HD",TV UFOP (1080p)
 https://app.tvufop.com.br/hls/tvufop.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="TVERS.br@SD",TVE RS (1080p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="TVERS.br@SD",TVE RS (1080p)
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="UnisulTV.br@SD",UNISUL TV (720p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="UnisulTV.br@SD",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="UniTVPortoAlegre.br@SD",UniTV Porto Alegre (480p)
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="UniTVPortoAlegre.br@SD",UniTV Porto Alegre (480p)
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="CanalFDR.br@SD",Canal FDR
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CanalFDR.br@SD",Canal FDR
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 
-#EXTINF:-1 group-title="🤖 AI & Edukasi" tvg-id="CanalSaude.br@SD",Canal Saude
+#EXTINF:-1 group-title="🎓 Edukasi & Sains" tvg-id="CanalSaude.br@SD",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 

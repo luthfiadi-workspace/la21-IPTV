@@ -21,8 +21,14 @@ CATEGORY_PLAYLISTS = {
     "news.m3u": ({"news"}, "📰 News"),
     "muslim.m3u": ({"religious"}, "☪️ Muslim"),
     "stocks-trade.m3u": ({"business"}, "📈 Stocks & Trade"),
-    "ai-edu.m3u": ({"education", "science"}, "🤖 AI & Edukasi"),
+    "ai-edu.m3u": ({"education", "science"}, "🎓 Edukasi & Sains"),
     "world-cup.m3u": ({"sports"}, "🏆 World Cup / Sports"),
+    "movies.m3u": ({"movies"}, "🎬 Movies"),
+    "kids.m3u": ({"kids"}, "🧒 Kids"),
+    "music.m3u": ({"music"}, "🎵 Music"),
+    "documentary.m3u": ({"documentary"}, "🎥 Documentary"),
+    "comedy.m3u": ({"comedy"}, "😂 Comedy"),
+    "animation.m3u": ({"animation"}, "🎨 Animation"),
 }
 
 COUNTRY_PLAYLISTS = {
