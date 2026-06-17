@@ -307,3 +307,87 @@ https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
 #EXTINF:-1 group-title="🧒 Kids" tvg-id="Slime.br@SD",Slime (576p) [Not 24/7]
 https://slime.x1co.com.br/hls/stream.m3u8
 
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="CTDecko.cz@SD",ČT:D/ČT art (1080p)
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="MinimaxCEE.cz@SD",Minimax (576p) (576p)
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="ORFKids.at@SD",ORF Kids (720p)
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="JapanimTV.be@SD",Japanim TV (1080p)
+https://foxkidstv.be:3369/stream/play.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="DisneyChannel.pt@SD",Disney Channel (1080p)
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="4FunKids.pl@SD",4 Fun Kids (576i) [[Not 24/7]]
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="PolsatJimJam.pl@SD",Polsat JimJam (576p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7298/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TVPABC.pl@SD",TVP ABC (1080p)
+http://91.246.72.88:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="DisneyChannel.pl@SD",Disney Channel
+http://81.15.109.89:8001/play/DisneyChannel2
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="DisneyXD.pl@SD",Disney XD
+http://81.15.109.89:8001/play/DisneyXD
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="CBeebies.pl@SD",CBeebies (576p)
+http://81.15.109.89:8001/play/BBCCBeebies
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="KnowledgeNetwork.ca@SD",Knowledge Network (720p) [Geo-blocked]
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="TVOKids.ca@SD",TVOKids
+https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="ElChavoTV.mx@HD",El Chavo TV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="BRTVKakuChildrensChannel.cn@SD",BRTV Kaku Childrens Channel
+http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="CCTV14.cn@HD",CCTV-14 (1080p)
+http://74.91.26.218:82/live/cctv14hd.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="GoldenEagleCartoon.cn@SD",Golden Eagle Cartoon
+http://1.24.190.98:10080/hls/51/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="JiangxiChildrensChannel.cn@SD",Jiangxi Children's Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="QTV6.cn@SD",QTV-6
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="YouManCartoonChannel.cn@SD",优漫卡通 (576p)
+http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="YouManCartoonChannel.cn@SD",优漫卡通 (576p)
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="ShandongTVChildrensChannel.cn@SD",山东少儿 (406p) [Geo-blocked]
+http://livealone302.iqilu.com/iqilu/sepd.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="GoldenEagleCartoon.cn@SD",金鹰卡通 (576p) [Geo-blocked]
+http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="GoldenEagleCartoon.cn@SD",金鹰卡通 (576p)
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="GoldenEagleCartoon.cn@SD",金鹰卡通 (湖南) (540p) [Not 24/7]
+http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="9Go.au@Sydney",9Go! (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="ABCEntertains.au@Sydney",ABC Entertains (720p)
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 group-title="🧒 Kids" tvg-id="ABCKids.au@Sydney",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+

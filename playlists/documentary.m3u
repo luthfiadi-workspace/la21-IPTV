@@ -164,3 +164,39 @@ https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎥 Documentary" tvg-id="NatureTime.ca@ES",NatureTime (1080p)
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="CT2.cz@SD",ČT 2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="DocuBox.nl@SD",DocuBox [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="DocuBox.nl@HD",DocuBox HD (1080p)
+https://iptv.prosto.tv/ch93/index.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="BTBInfo.pl@SD",BTB Info (1080p)
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="CCTV9.cn@SD",CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="CGTNDocumentary.cn@SD",CGTN Documentary (1080p)
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="CNDFilmDiscoveryChannel.cn@SD",发现之旅 (576p)
+http://125.210.152.18:9090/live/FXZL_750.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="WildEarth.za@SD",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="WildEarth.za@SD",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="WildEarth.za@SD",WildEarth (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="WildEarth.za@SD",WildEarth (1080p)
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 Documentary" tvg-id="WildEarth.za@SD",WildEarth (1080p)
+https://wildearth-xumo.amagi.tv/master.m3u8
+

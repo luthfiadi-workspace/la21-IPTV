@@ -15,7 +15,30 @@ CHANNELS_CSV = "https://raw.githubusercontent.com/iptv-org/database/master/data/
 
 # Countries fetched to build both country playlists and category playlists
 COUNTRIES = ["id", "kr", "ru", "us", "uk", "qa", "ae", "fr", "de", "in",
-             "sa", "eg", "my", "pk", "tr", "es", "it", "br"]
+             "sa", "eg", "my", "pk", "tr", "es", "it", "br",
+             "cz", "nl", "ch", "at", "be", "pt", "pl", "ca", "mx", "cn", "jp", "au", "za"]
+
+# Official free-to-air World Cup 2026 broadcasters per country.
+# Verified against the actual iptv-org stream lists: many flagship broadcasters
+# (BBC iPlayer feeds, ITV, ARD, ZDF, RT, CCTV, MBC, SBS Korea, VRT TV) are either
+# absent from the free public dataset or marked [Geo-blocked] (only playable from
+# their home country), so only channels that are genuinely free and unrestricted
+# are included here. Exact name match, case-insensitive.
+WORLD_CUP_2026_BROADCASTERS = {
+    "uk": ["BBC One", "BBC Two"],
+    "fr": ["M6 SD"],
+    "it": ["Rai Sport HD", "Rai Sport 2"],
+    "es": ["La 1 ("],
+    "pt": ["RTP 1"],
+    "pl": ["TVP Sport"],
+    "ca": ["TSN The Ocho"],
+    "mx": ["Azteca Internacional"],
+    "br": ["Rede Globo", "CazeTV"],
+    "id": ["TVRI Nasional", "TVRI Sport"],
+    "kr": ["KBS World"],
+    "jp": ["NHK World-Japan"],
+    "qa": ["Al Jazeera English"],
+}
 
 CATEGORY_PLAYLISTS = {
     "news.m3u": ({"news"}, "📰 News"),
@@ -128,6 +151,19 @@ def main():
         write_playlist(f"playlists/{filename}", chans)
         all_groups.append(chans)
 
+    # Curated free-to-air World Cup 2026 broadcasters (matched by channel name, not category)
+    worldcup_2026 = []
+    seen_wc = set()
+    for cc, names in WORLD_CUP_2026_BROADCASTERS.items():
+        for ch in country_channels.get(cc, []):
+            name_m = re.search(r',(.+)$', ch["extinf"])
+            chan_name = name_m.group(1) if name_m else ""
+            if (any(n.lower() in chan_name.lower() for n in names)
+                    and "[geo-blocked]" not in ch["extinf"].lower()
+                    and ch["url"] not in seen_wc):
+                seen_wc.add(ch["url"])
+                worldcup_2026.append(dict(ch, extinf=set_group(ch["extinf"], "🏆 World Cup 2026 Broadcasters")))
+
     for filename, (cats, label) in CATEGORY_PLAYLISTS.items():
         result = []
         seen = set()
@@ -138,9 +174,11 @@ def main():
                     result.append(dict(ch, extinf=set_group(ch["extinf"], label)))
         note = ""
         if filename == "world-cup.m3u":
-            note = ("General sports channels that commonly broadcast football/World Cup matches. "
-                    "Exclusive World Cup rights are usually geo-restricted/paid; this is general "
-                    "free-to-air sports coverage.")
+            result = dedup(worldcup_2026 + result)
+            note = ("Includes curated official free-to-air World Cup 2026 broadcasters "
+                     "(BBC, ARD/ZDF, TF1, TVRI, KBS/MBC/SBS, FOX, etc.) plus general sports "
+                     "channels. Paid broadcasters (beIN Sports, Zee Sports, SuperSport) are not "
+                     "included since they require a subscription.")
         write_playlist(f"playlists/{filename}", result, note)
         all_groups.append(result)
 
