@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.LA21TV" parent="android:Theme.DeviceDefault">
+        <item name="android:colorBackground">#0D0F14</item>
+    </style>
+</resources>
