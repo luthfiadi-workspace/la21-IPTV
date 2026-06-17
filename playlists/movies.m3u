@@ -1,563 +1,563 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MAXReels.id@SD",MAX Reels
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_psqdb637/landscape_carousel_xxhdpi.webp" tvg-id="MAXReels.id@SD",MAX Reels
 #EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Cinema.ru@SD",Cinema
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-id="Cinema.ru@SD",Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Domkino.ru@SD",Dom kino
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-id="Domkino.ru@SD",Dom kino
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Kino24.ru@SD",Kino 24 (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/QAdDARF.png" tvg-id="Kino24.ru@SD",Kino 24 (720p)
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="KinoHit.ru@SD",KinoHit
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/Ge8vkQM.png" tvg-id="KinoHit.ru@SD",KinoHit
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Kinopokaz.ru@SD",Kinopokaz
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-id="Kinopokaz.ru@SD",Kinopokaz
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Kinosvidanie.ru@SD",Kinosvidanie
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-id="Kinosvidanie.ru@SD",Kinosvidanie
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="NasheNovoeKino.ru@SD",Nashe Novoe Kino
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-id="NasheNovoeKino.ru@SD",Nashe Novoe Kino
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Pro100TV.ru@SD",Pro100TV (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/YfQEflM.png" tvg-id="Pro100TV.ru@SD",Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="RodnoeKino.ru@SD",Rodnoe Kino
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-id="RodnoeKino.ru@SD",Rodnoe Kino
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/Meak2y4.png" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="KinoTV.ru@SD",КИНОТВ
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-id="KinoTV.ru@SD",КИНОТВ
 https://vod.tuva.ru/kinotv/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Patriot.ru@SD",Патриот (576i)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" tvg-id="Patriot.ru@SD",Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Kinopremyera.ru@SD",Kinopremyera
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-id="Kinopremyera.ru@SD",Kinopremyera
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/TMmyuzh.png" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Cinema.ru@SD",Cinema
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-id="Cinema.ru@SD",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ABNBibleMoviesChannel.us@SD",ABN Bible Movies (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/NCqZdaL.png" tvg-id="ABNBibleMoviesChannel.us@SD",ABN Bible Movies (720p)
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AmericanHorrors.us@SD",American Horrors (480p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" tvg-id="AmericanHorrors.us@SD",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AXNBlack.us@Romania",AXN Black Romania [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-id="AXNBlack.us@Romania",AXN Black Romania [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Charge.us@SD",Charge! (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/1rxmu2u.png" tvg-id="Charge.us@SD",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ClassicCinema.us@SD",Classic Cinema (240p) [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/FJoPnTb.png" tvg-id="ClassicCinema.us@SD",Classic Cinema (240p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Movies.us@SD",Movies! (480p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/gAGn3mK.png" tvg-id="Movies.us@SD",Movies! (480p)
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="RevryHer.us@SD",Revry Her (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://www.washingtonblade.com/content/files/2020/01/QUEER_STREAMING_SERVICE_ADOPTS-LGBT_TOKEN_FEATURED_WB_10012020-e1578680670538.jpeg" tvg-id="RevryHer.us@SD",Revry Her (720p)
 https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="TVSDriveInMovie.us@SD",TVS Drive In Movie (360p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/OR9APjb.png" tvg-id="TVSDriveInMovie.us@SD",TVS Drive In Movie (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="TVSFilmNoirNetwork.us@SD",TVS Film Noir Network (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/A4yWhQw.png" tvg-id="TVSFilmNoirNetwork.us@SD",TVS Film Noir Network (720p)
 https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="UniversalCinema.us@SD",Universal Cinema (480p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/XxfET68.png" tvg-id="UniversalCinema.us@SD",Universal Cinema (480p)
 http://190.2.212.209:8050/play/a0q3
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="UniversalComedy.us@SD",Universal Comedy (480p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/avBL8pQ.png" tvg-id="UniversalComedy.us@SD",Universal Comedy (480p)
 http://190.2.212.209:8050/play/a0q4
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="VictorValleyTV.us@SD",Victor Valley Movies (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/zgiuNNj.png" tvg-id="VictorValleyTV.us@SD",Victor Valley Movies (1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="WhiplashCinema.us@SD",Whiplash Cinema (480p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" tvg-id="WhiplashCinema.us@SD",Whiplash Cinema (480p)
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="WuTangCollection.us@SD",Wu Tang Collection (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/sz55sBl.png" tvg-id="WuTangCollection.us@SD",Wu Tang Collection (720p)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AXNBlack.us@Romania",AXN Black Romania
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-id="AXNBlack.us@Romania",AXN Black Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://dokagents.site/live/axnb/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AMCEurope.uk@RO",AMC Europe [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-id="AMCEurope.uk@RO",AMC Europe [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6949/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Film4.uk@SD",Film4 (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/MTSgoGI.png" tvg-id="Film4.uk@SD",Film4 (1080p)
 http://80.194.62.172:50002/stream/channelid/1764271106
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="GREATmovies.uk@UK",GREAT! movies (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" tvg-id="GREATmovies.uk@UK",GREAT! movies (1080p)
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="GREATromance.uk@UK",GREAT! romance (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" tvg-id="GREATromance.uk@UK",GREAT! romance (1080p)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AMCEurope.uk@RO",AMC Europe
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-id="AMCEurope.uk@RO",AMC Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://dokagents.site/live/amc/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MBCBollywood.ae@SD",MBC Bollywood (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/TTAGFHG.png" tvg-id="MBCBollywood.ae@SD",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="OSNMoviesAction.ae@SD",OSN Movies Action (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/uOzyKup.png" tvg-id="OSNMoviesAction.ae@SD",OSN Movies Action (1080p)
 http://116.90.120.151:8000/play/a0ax/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/RO4AM4b.png" tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/RO4AM4b.png" tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
 https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/pXsZEsR.png" tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/pXsZEsR.png" tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
 https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/8sHuxxS.png" tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/8sHuxxS.png" tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
 https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Andflix.in@HD",&flix HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67W.png?lock=720x540" tvg-id="Andflix.in@HD",&flix HD (1080p)
 http://103.72.101.252:8080/live/1322.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Andpictures.in@HD",&pictures HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" tvg-id="Andpictures.in@HD",&pictures HD (1080p)
 http://103.72.101.252:8080/live/185.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AndTV.in@SD",&TV (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" tvg-id="AndTV.in@SD",&TV (576p)
 http://103.229.254.25:7001/play/a09v/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AndTV.in@International",&TV International (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" tvg-id="AndTV.in@International",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AndxplorHD.in@HD",&xplor HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/9mK6dgM.png" tvg-id="AndxplorHD.in@HD",&xplor HD (1080p)
 http://149.71.34.166:8000/play/a001/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AlankarTV.in@SD",Alankar TV (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142630_ld_h15_aa.png?lock=720x540" tvg-id="AlankarTV.in@SD",Alankar TV (720p)
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AnmolCinema.in@SD",Anmol Cinema (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" tvg-id="AnmolCinema.in@SD",Anmol Cinema (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/271/271_0.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AnmolCinema2.in@SD",Anmol Cinema 2 (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260Y9L.png?lock=720x540" tvg-id="AnmolCinema2.in@SD",Anmol Cinema 2 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/257/257_0.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AsianetMovies.in@SD",Asianet Movies (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142677_ld_h15_aa.png?lock=720x540" tvg-id="AsianetMovies.in@SD",Asianet Movies (576p)
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AsianetMovies.in@HD",Asianet Movies HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142677_ld_h15_aa.png?lock=720x540" tvg-id="AsianetMovies.in@HD",Asianet Movies HD (1080p)
 http://149.71.34.166:8000/play/a06e/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/NwOQUDp.png" tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/NwOQUDp.png" tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (720p)
 http://103.213.31.109:90/B4UBhojpuri/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="B4UKadak.in@SD",B4U Kadak (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-id="B4UKadak.in@SD",B4U Kadak (1080p) [Geo-blocked]
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="B4UKadak.in@SD",B4U Kadak (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-id="B4UKadak.in@SD",B4U Kadak (1080p) [Not 24/7]
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="B4UKadak.in@SD",B4U Kadak (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-id="B4UKadak.in@SD",B4U Kadak (720p)
 http://103.213.31.109:90/B4UKadak/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="B4UKadak.in@SD",B4U Kadak
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-id="B4UKadak.in@SD",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="B4UMovies.in@India",B4U Movies (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" tvg-id="B4UMovies.in@India",B4U Movies (1080p) [Geo-blocked]
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="B4UMovies.in@India",B4U Movies (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" tvg-id="B4UMovies.in@India",B4U Movies (720p)
 http://103.213.31.109:90/B4UMovies/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="B4UMovies.in@India",B4U Movies
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" tvg-id="B4UMovies.in@India",B4U Movies
 https://cdn-2.pishow.tv/live/419/master.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
 http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema
 https://cdn-4.pishow.tv/live/1033/master.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142748_ld_h15_aa.png?lock=720x540" tvg-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
 http://103.72.101.252:8080/live/1657.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png?lock=720x540" tvg-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
 http://103.122.249.134:8000/play/a058
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/EbHSQAJ.png" tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p)
 http://103.72.101.252:8080/live/1763.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (564p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/EbHSQAJ.png" tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (564p)
 http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png?lock=720x540" tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
 http://149.71.34.166:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ColorsCineplexSuperhits.in@SD",Colors Cineplex Superhits (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142750_ld_h15_aa.png?lock=720x540" tvg-id="ColorsCineplexSuperhits.in@SD",Colors Cineplex Superhits (576p)
 http://103.72.101.252:8080/live/1450.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ColorsGujaratiCinema.in@SD",Colors Gujarati Cinema (360p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142751_ld_h15_aa.png?lock=720x540" tvg-id="ColorsGujaratiCinema.in@SD",Colors Gujarati Cinema (360p)
 http://103.72.101.252:8080/live/1324.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ColorsKannadaCinema.in@SD",Colors Kannada Cinema (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142752_ld_h15_aa.png?lock=720x540" tvg-id="ColorsKannadaCinema.in@SD",Colors Kannada Cinema (576p)
 http://103.72.101.252:8080/live/1632.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="EpicBhojpuri.in@SD",Epic Bhojpuri (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" tvg-id="EpicBhojpuri.in@SD",Epic Bhojpuri (576p)
 http://103.72.101.252:8080/live/3384.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ETVCinema.in@HD",ETV Cinema HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540" tvg-id="ETVCinema.in@HD",ETV Cinema HD (1080p)
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 
 #EXTINF:-1 group-title="🎬 Movies" tvg-id="Goldmines2.in@SD",Goldmines 2 (576p)
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="GoldminesMovies.in@SD",Goldmines Movies (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" tvg-id="GoldminesMovies.in@SD",Goldmines Movies (720p)
 http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="IndywoodTV.in@SD",Indywood TV (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" tvg-id="IndywoodTV.in@SD",Indywood TV (720p)
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="JMovie.in@SD",J Movie (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143215_ld_h15_aa.png?lock=720x540" tvg-id="JMovie.in@SD",J Movie (576p)
 http://103.72.101.252:8080/live/417.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="JalshaMovies.in@HD",Jalsha Movies HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143218_ld_h15_aa.png?lock=720x540" tvg-id="JalshaMovies.in@HD",Jalsha Movies HD (1080p)
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ManoranjanMovies.in@SD",Manoranjan Movies (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540" tvg-id="ManoranjanMovies.in@SD",Manoranjan Movies (720p)
 http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MaxMovies.in@HD",Max Movies (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg" tvg-id="MaxMovies.in@HD",Max Movies (1080p)
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MNX.in@HD",MNX HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143549_ld_h15_aa.png?lock=720x540" tvg-id="MNX.in@HD",MNX HD (1080p)
 http://149.71.34.166:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MoviesNowPlus.in@SD",Movies Now + (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=720x540" tvg-id="MoviesNowPlus.in@SD",Movies Now + (1080p)
 http://149.71.34.166:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143554_ld_h15_aa.png?lock=720x540" tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
 http://103.161.153.165:8000/play/mnh/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Pitaara.in@SD",Pitaara (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-id="Pitaara.in@SD",Pitaara (720p)
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="PravahPicture.in@HD",Pravah Picture HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143675_ld_h15_aa.png?lock=720x540" tvg-id="PravahPicture.in@HD",Pravah Picture HD (1080p)
 http://149.71.34.166:8000/play/a06f/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="RajDigitalPlus.in@SD",Raj Digital Plus (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143704_ld_h15_ab.png?lock=720x540" tvg-id="RajDigitalPlus.in@SD",Raj Digital Plus (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="RojaMovies.in@SD",Roja Movies (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" tvg-id="RojaMovies.in@SD",Roja Movies (1080p)
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="RomedyNow.in@SD",Romedy Now (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143729_ld_h15_aa.png?lock=720x540" tvg-id="RomedyNow.in@SD",Romedy Now (576p)
 http://103.157.248.140:8000/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ShemarooFilmiGaane.in@HD",Shemaroo Filmi Gaane (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/2yOij1b.png" tvg-id="ShemarooFilmiGaane.in@HD",Shemaroo Filmi Gaane (1080p)
 http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ShemarooFilmiGaane.in@HD",Shemaroo Filmi Gaane (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/2yOij1b.png" tvg-id="ShemarooFilmiGaane.in@HD",Shemaroo Filmi Gaane (1080p)
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (720p)
 http://103.213.31.109:90/ChumbakTv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (720p)
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ShubhCinemaTV.in@SD",Shubh Cinema TV (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/RQhorAG.png" tvg-id="ShubhCinemaTV.in@SD",Shubh Cinema TV (720p)
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SonyMax2.in@SD",Sony Max 2 (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" tvg-id="SonyMax2.in@SD",Sony Max 2 (576p)
 http://149.71.34.166:8000/play/a00z/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SonyPix.in@HD",Sony Pix HD (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143802_ld_h15_aa.png?lock=720x540" tvg-id="SonyPix.in@HD",Sony Pix HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SonyWah.in@SD",Sony Wah (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" tvg-id="SonyWah.in@SD",Sony Wah (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SouthStation.in@HD",South Station (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" tvg-id="SouthStation.in@HD",South Station (1080p)
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143814_ld_h15_aa.png?lock=720x540" tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
 http://103.253.18.58:8000/play/a00r
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="StarGoldRomance.in@SD",Star Gold Romance (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158298_ld_h15_aa.png?lock=720x540" tvg-id="StarGoldRomance.in@SD",Star Gold Romance (576p)
 http://103.253.18.58:8000/play/a017
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143816_ld_h15_aa.png?lock=720x540" tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
 http://103.253.18.58:8000/play/a02u
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143816_ld_h15_aa.png?lock=720x540" tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
 http://149.71.34.166:8000/play/a01d/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158822_ld_h15_aa.png?lock=720x540" tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
 #EXTVLCOPT:http-referrer=http://www.jiotv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://103.157.248.140:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158822_ld_h15_aa.png?lock=720x540" tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
 http://103.253.18.58:8000/play/a00o
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="StarMaaMovies.in@HD",Star Maa Movies HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143825_ld_h15_aa.png?lock=720x540" tvg-id="StarMaaMovies.in@HD",Star Maa Movies HD (1080p)
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140069_ld_h15_aa.png?lock=720x540" tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
 http://149.71.34.166:8000/play/a01f/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158863_ld_h15_aa.png?lock=720x540" tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
 http://149.71.34.166:8000/play/a01g/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540" tvg-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p)
 http://149.71.34.166:8000/play/a059/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="SuriyanTV.in@SD",Suriyan TV (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg" tvg-id="SuriyanTV.in@SD",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="TheMovieClub.in@HD",The Movie Club (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" tvg-id="TheMovieClub.in@HD",The Movie Club (1080p)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="TheMovieClub.in@Plus2",The Movie Club +2 (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" tvg-id="TheMovieClub.in@Plus2",The Movie Club +2 (1080p)
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="VijaySuper.in@SD",Vijay Super (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/s144077_ld_h15_aa.png?lock=720x540" tvg-id="VijaySuper.in@SD",Vijay Super (576p)
 http://202.70.146.135:8000/play/a008/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZBCinema.in@HD",ZB Cinema (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/kUg6WSk.jpeg" tvg-id="ZBCinema.in@HD",ZB Cinema (720p)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeAction.in@SD",Zee Action (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" tvg-id="ZeeAction.in@SD",Zee Action (576p)
 http://103.72.101.252:8080/live/488.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeBiskope.in@SD",Zee Biskope (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png" tvg-id="ZeeBiskope.in@SD",Zee Biskope (576p)
 http://103.154.3.101:5001/live/559.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeBollymovies.in@SD",Zee Bollymovies (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" tvg-id="ZeeBollymovies.in@SD",Zee Bollymovies (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeBollymovies.in@Australia",Zee Bollymovies Australia (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" tvg-id="ZeeBollymovies.in@Australia",Zee Bollymovies Australia (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeBollywood.in@SD",Zee Bollywood (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" tvg-id="ZeeBollywood.in@SD",Zee Bollywood (576p)
 http://149.71.34.166:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
 http://103.72.101.252:8080/live/165.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeCinemalu.in@SD",Zee Cinemalu (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZNDZ.png?lock=720x540" tvg-id="ZeeCinemalu.in@SD",Zee Cinemalu (576p)
 http://103.72.101.252:8080/live/413.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeCinemalu.in@HD",Zee Cinemalu HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZNDZ.png?lock=720x540" tvg-id="ZeeCinemalu.in@HD",Zee Cinemalu HD (1080p)
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeSouthFlix.in@HD",Zee South Flix (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" tvg-id="ZeeSouthFlix.in@HD",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeTalkies.in@HD",Zee Talkies HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png?lock=720x540" tvg-id="ZeeTalkies.in@HD",Zee Talkies HD (1080p)
 http://103.72.101.252:8080/live/1358.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ZeeThirai.in@HD",Zee Thirai HD (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S9BF.png?lock=720x540" tvg-id="ZeeThirai.in@HD",Zee Thirai HD (1080p)
 http://149.71.34.166:8000/play/a06d/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Aflam.sa@SD",Aflam (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/cTLj7Yt.png" tvg-id="Aflam.sa@SD",Aflam (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MBCPlusDrama.sa@SD",MBC+ Drama (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/lxWdjXG.png" tvg-id="MBCPlusDrama.sa@SD",MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MoviesAction.sa@SD",Movies Action (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/NIVhISa.png" tvg-id="MoviesAction.sa@SD",Movies Action (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MoviesThriller.sa@SD",Movies Thriller (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/JWihdcl.png" tvg-id="MoviesThriller.sa@SD",Movies Thriller (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="RotanaCinemaKSA.sa@SD",Rotana Cinema KSA (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/pGgp38I.png" tvg-id="RotanaCinemaKSA.sa@SD",Rotana Cinema KSA (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MixHollywood.eg@SD",Mix Hollywood (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/1ENdbZn.png" tvg-id="MixHollywood.eg@SD",Mix Hollywood (1080p)
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="RotanaCinemaEgypt.eg@SD",Rotana Cinema Egypt (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/dGlKoLW.png" tvg-id="RotanaCinemaEgypt.eg@SD",Rotana Cinema Egypt (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="CinemaWorld.my@SD",CinemaWorld (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/D2qNVZ7.png" tvg-id="CinemaWorld.my@SD",CinemaWorld (720p)
 http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MaahTV.my@SD",Maah TV (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/FkyueH6.png" tvg-id="MaahTV.my@SD",Maah TV (720p)
 https://hls.maahtv.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Filmax.pk@SD",Filmax (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/eLmdZ6k.png" tvg-id="Filmax.pk@SD",Filmax (576p)
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Filmazia.pk@SD",Filmazia (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/hpTCANa.png" tvg-id="Filmazia.pk@SD",Filmazia (576p)
 http://103.250.28.74:8000/play/a02k/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MovieSmartTurk.tr@SD",MovieSmart Turk (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/DWN9ulT.png" tvg-id="MovieSmartTurk.tr@SD",MovieSmart Turk (576p)
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Atrescine.es@SD",Atrescine (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" tvg-id="Atrescine.es@SD",Atrescine (1080p)
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AXNCEE.es@Romania",AXN CEE Romania [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-id="AXNCEE.es@Romania",AXN CEE Romania [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AXNCEE.es@Romania",AXN CEE Romania
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-id="AXNCEE.es@Romania",AXN CEE Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://dokagents.site/live/axnhd/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Twentyseven.it@SD",27 TwentySeven [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" tvg-id="Twentyseven.it@SD",27 TwentySeven [Geo-blocked]
 https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="Cine34.it@SD",Cine 34 [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png" tvg-id="Cine34.it@SD",Cine 34 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="RaiMovie.it@SD",Rai Movie (576p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/0FjxXU9.png" tvg-id="RaiMovie.it@SD",Rai Movie (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="CINDIETV.br@HD",CINDIE TV (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png" tvg-id="CINDIETV.br@HD",CINDIE TV (1080p)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="CINDIETV.br@HD",CINDIE TV (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png" tvg-id="CINDIETV.br@HD",CINDIE TV (1080p)
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ClassiqueTV.br@SD",Classique TV (360p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/rHxcraT.png" tvg-id="ClassiqueTV.br@SD",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="GhostTV.br@SD",Ghost TV (712p) [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/ZVO8GVI.png" tvg-id="GhostTV.br@SD",Ghost TV (712p) [Not 24/7]
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="KuriakosCine.pt@SD",Kuriakos Cine (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/CZViCwB.jpg" tvg-id="KuriakosCine.pt@SD",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="KinoBarrandov.cz@SD",Kino Barrandov (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png" tvg-id="KinoBarrandov.cz@SD",Kino Barrandov (720p)
 http://83.167.253.107/hdmi1_ext
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxArthouse.nl@SD",FilmBox Arthouse (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/hDg35ne.png" tvg-id="FilmBoxArthouse.nl@SD",FilmBox Arthouse (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://iptv.prosto.tv/ch63/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxBaltics.nl@SD",FilmBox Baltics (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/gXu36aD.png" tvg-id="FilmBoxBaltics.nl@SD",FilmBox Baltics (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://iptv.prosto.tv/ch64/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxExtra.nl@Hungary",FilmBox Extra [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/ML7SlIW.png" tvg-id="FilmBoxExtra.nl@Hungary",FilmBox Extra [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6996/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxFamily.nl@Africa",FilmBox Family [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/CGFyAyc.png" tvg-id="FilmBoxFamily.nl@Africa",FilmBox Family [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7044/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxPremium.nl@RO",FilmBox Premium [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/RydfsE9.png" tvg-id="FilmBoxPremium.nl@RO",FilmBox Premium [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7043/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxStars.nl@Hungary",FilmBox Stars [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/eZFdHbR.png" tvg-id="FilmBoxStars.nl@Hungary",FilmBox Stars [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/7045/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ParamountNetwork.nl@SD",Paramount Network [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/I0JJySN.png" tvg-id="ParamountNetwork.nl@SD",Paramount Network [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBox.nl@Netherlands",FilmBox [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/VyaslIY.png" tvg-id="FilmBox.nl@Netherlands",FilmBox [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6948/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="FilmBoxPremium.nl@Romania",FilmBox Premium Romania
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/RydfsE9.png" tvg-id="FilmBoxPremium.nl@Romania",FilmBox Premium Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://dokagents.site/live/filmboxp/mono.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="MyCinemaEurope.ch@SD",My Cinema Europe
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/jz0d8tH.png" tvg-id="MyCinemaEurope.ch@SD",My Cinema Europe
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="ServusTV.at@SD",ServusTV (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/6W637Gn.png" tvg-id="ServusTV.at@SD",ServusTV (1080p) [Geo-blocked]
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="PolsatFilm.pl@SD",Polsat Film (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/wGH6shZ.png" tvg-id="PolsatFilm.pl@SD",Polsat Film (1080p) [Not 24/7]
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6086/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="KinoPolska.pl@SD",Kino Polska (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/lbl8K23.png" tvg-id="KinoPolska.pl@SD",Kino Polska (1080p) [Not 24/7]
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AXNPoland.pl@SD",AXN Poland
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-id="AXNPoland.pl@SD",AXN Poland
 http://81.15.109.89:8001/play/AXN
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AXNWhite.pl@SD",AXN White
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/DaAyLE7.png" tvg-id="AXNWhite.pl@SD",AXN White
 http://81.15.109.89:8001/play/AXNWhite
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="AfghanNobelMovies.ca@SD",Afghan Nobel Movies (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" tvg-id="AfghanNobelMovies.ca@SD",Afghan Nobel Movies (720p)
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="NETVToronto.ca@SD",NETV Toronto (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/WXRBuOW.png" tvg-id="NETVToronto.ca@SD",NETV Toronto (720p)
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America
 http://181.119.93.83:8000/play/a1jw/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="CCTV6.cn@HD",CCTV-6 (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/rFiaef7.png" tvg-id="CCTV6.cn@HD",CCTV-6 (1080p)
 http://69.30.245.50/live/cctv6.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="CCTV6.cn@HD",CCTV-6 (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/rFiaef7.png" tvg-id="CCTV6.cn@HD",CCTV-6 (1080p)
 http://198.204.240.250:82/live/cctv6.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="HarbinMovieChannel.cn@SD",Harbin Movie Channel
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" tvg-id="HarbinMovieChannel.cn@SD",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="JiangxiMovieChannel.cn@SD",Jiangxi Movie Channel
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxi.jpg" tvg-id="JiangxiMovieChannel.cn@SD",Jiangxi Movie Channel
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="JilinMovieChannel.cn@SD",Jilin Movie Channel
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://www.tvchinese.net/uploads/tv/jlyspd.jpg" tvg-id="JilinMovieChannel.cn@SD",Jilin Movie Channel
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="QTV3.cn@SD",QTV-3
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" tvg-id="QTV3.cn@SD",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="CHCAction.cn@SD",动作电影 (1080p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/AuiVcyh.png" tvg-id="CHCAction.cn@SD",动作电影 (1080p)
 http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="JiangsuMovieChannel.cn@SD",江苏影视 (576p) [Not 24/7]
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://www.tvchinese.net/uploads/tv/jsys.jpg" tvg-id="JiangsuMovieChannel.cn@SD",江苏影视 (576p) [Not 24/7]
 http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="JiangsuMovieChannel.cn@SD",江苏影视 (576p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://www.tvchinese.net/uploads/tv/jsys.jpg" tvg-id="JiangsuMovieChannel.cn@SD",江苏影视 (576p)
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-id="CTBPerthMoviesChannel.au@SD",CTB Perth Movies (720p)
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" tvg-id="CTBPerthMoviesChannel.au@SD",CTB Perth Movies (720p)
 https://movies.ctbperth.net.au/hls/stream.m3u8
 

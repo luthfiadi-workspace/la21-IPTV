@@ -1,103 +1,103 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="Pro100TV.ru@SD",Pro100TV (576p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/YfQEflM.png" tvg-id="Pro100TV.ru@SD",Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="Multimania.ru@SD",Мультимания (576p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/abh8ZBA.png" tvg-id="Multimania.ru@SD",Мультимания (576p)
 https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="Multimania.ru@SD",Мультимания ТВ (576p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/abh8ZBA.png" tvg-id="Multimania.ru@SD",Мультимания ТВ (576p)
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="Solnce.ru@SD",Солнце (576p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/HCefxaK.png" tvg-id="Solnce.ru@SD",Солнце (576p)
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="KMBYLD275.us@SD",Blues TV
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/px0CSti.png" tvg-id="KMBYLD275.us@SD",Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 
 #EXTINF:-1 group-title="🎨 Animation" tvg-id="GooderNationChannel32.us@West",Gooder Nation Channel 32 (720p) [Not 24/7]
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/channel32/playlist.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="Placid.us@EastHD",Placid (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg" tvg-id="Placid.us@EastHD",Placid (1080p) [Not 24/7]
 https://toy.vcdn.fyi/placid/index.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="ToonamiAftermath.us@East",Toonami Aftermath East (480p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/aSjhZK7.png" tvg-id="ToonamiAftermath.us@East",Toonami Aftermath East (480p)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="YuGiOh.us@SD",Yu-Gi-Oh! (1080p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/Tl6aW2u.png" tvg-id="YuGiOh.us@SD",Yu-Gi-Oh! (1080p)
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="SpacetoonArabic.ae@SD",Spacetoon Arabic (576p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" tvg-id="SpacetoonArabic.ae@SD",Spacetoon Arabic (576p)
 #EXTVLCOPT:http-referrer=https://spacetoon.com
 https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="ADNTVPlus.fr@SD",ADN TV+ (720p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/HQZQyWt.png" tvg-id="ADNTVPlus.fr@SD",ADN TV+ (720p)
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="Gong.fr@SD",Gong (1080p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/lA9UFMG.png" tvg-id="Gong.fr@SD",Gong (1080p)
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="SonyYay.in@SD",Sony Yay! (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-id="SonyYay.in@SD",Sony Yay! (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+YAY.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="DisneyJr.tr@SD",Disney Jr. (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-id="DisneyJr.tr@SD",Disney Jr. (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="AnimeVision.es@SD",Anime Vision (1080p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/pUpKznl.png" tvg-id="AnimeVision.es@SD",Anime Vision (1080p)
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="AnimeVisionClassics.es@SD",Anime Vision Classics (1080p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/mTaiEE1.png" tvg-id="AnimeVisionClassics.es@SD",Anime Vision Classics (1080p)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="SX3.es@SD",SX3 (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/960px-SX3_logo.svg.png" tvg-id="SX3.es@SD",SX3 (1080p) [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="SX3.es@SD",SX3 (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/960px-SX3_logo.svg.png" tvg-id="SX3.es@SD",SX3 (1080p) [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="Geekdot.br@SD",Geekdot (720p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/jML1u4O.png" tvg-id="Geekdot.br@SD",Geekdot (720p)
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="KuriakosKids.pt@SD",Kuriakos Kids (1080p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/SRX6EPY.png" tvg-id="KuriakosKids.pt@SD",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="NickOnline.br@SD",NickOnline (360p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://x1co.com.br/logo.png" tvg-id="NickOnline.br@SD",NickOnline (360p)
 https://x1co.com.br/hls/stream.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="NickToonsBrasil.br@SD",NickToons Brasil (480p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" tvg-id="NickToonsBrasil.br@SD",NickToons Brasil (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="NickWeb.br@SD",NickWeb (720p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.ibb.co/Qvxbvk9B/20260422-174151.png" tvg-id="NickWeb.br@SD",NickWeb (720p)
 https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="Slime.br@SD",Slime (576p) [Not 24/7]
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://x1co.com.br/slimelogo.png" tvg-id="Slime.br@SD",Slime (576p) [Not 24/7]
 https://slime.x1co.com.br/hls/stream.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="JapanimTV.be@SD",Japanim TV (1080p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" tvg-id="JapanimTV.be@SD",Japanim TV (1080p)
 https://foxkidstv.be:3369/stream/play.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="GikTVMX.mx@SD",GikTVMX (720p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/Gwz78jZ.png" tvg-id="GikTVMX.mx@SD",GikTVMX (720p)
 #EXTVLCOPT:http-referrer=https://giktv.com
 https://pistream.ddns.net/hls/stream.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="GoldenEagleCartoon.cn@SD",Golden Eagle Cartoon
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/xfVHrKQ.png" tvg-id="GoldenEagleCartoon.cn@SD",Golden Eagle Cartoon
 http://1.24.190.98:10080/hls/51/index.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="JiangxiChildrensChannel.cn@SD",Jiangxi Children's Channel
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv6.jpg" tvg-id="JiangxiChildrensChannel.cn@SD",Jiangxi Children's Channel
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="YouManCartoonChannel.cn@SD",优漫卡通 (576p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/GZInf2W.png" tvg-id="YouManCartoonChannel.cn@SD",优漫卡通 (576p)
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="YouManCartoonChannel.cn@SD",优漫卡通 (576p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/GZInf2W.png" tvg-id="YouManCartoonChannel.cn@SD",优漫卡通 (576p)
 http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="GoldenEagleCartoon.cn@SD",金鹰卡通 (576p) [Geo-blocked]
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/xfVHrKQ.png" tvg-id="GoldenEagleCartoon.cn@SD",金鹰卡通 (576p) [Geo-blocked]
 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="GoldenEagleCartoon.cn@SD",金鹰卡通 (576p)
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/xfVHrKQ.png" tvg-id="GoldenEagleCartoon.cn@SD",金鹰卡通 (576p)
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 
-#EXTINF:-1 group-title="🎨 Animation" tvg-id="GoldenEagleCartoon.cn@SD",金鹰卡通 (湖南) (540p) [Not 24/7]
+#EXTINF:-1 group-title="🎨 Animation" tvg-logo="https://i.imgur.com/xfVHrKQ.png" tvg-id="GoldenEagleCartoon.cn@SD",金鹰卡通 (湖南) (540p) [Not 24/7]
 http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
 

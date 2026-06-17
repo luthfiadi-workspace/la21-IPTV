@@ -1,0 +1,20 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+
+#EXTINF:-1 group-title="🌦️ Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-id="FoxWeather.us@SD",Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 group-title="🌦️ Weather" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" tvg-id="SkyNewsWeather.uk@SD",Sky News Weather (720p)
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="🌦️ Weather" tvg-logo="https://i.imgur.com/zXy2kbe.png" tvg-id="3CatCameresdeltemps.es@SD",3Cat Càmeres del temps (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+
+#EXTINF:-1 group-title="🌦️ Weather" tvg-logo="https://i.imgur.com/YtYhbJD.png" tvg-id="Meteonews.ch@SD",Meteonews (1080p)
+https://streaming.meteonews.net/hls/stream.m3u8
+
+#EXTINF:-1 group-title="🌦️ Weather" tvg-logo="https://i.imgur.com/syNwDpg.png" tvg-id="ChinaWeatherChannel.cn@SD",中国气象 (576p) [Not 24/7]
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+
+#EXTINF:-1 group-title="🌦️ Weather" tvg-logo="https://i.imgur.com/A8uRSTS.png" tvg-id="Weathernews.jp@SD",Weathernews (720p)
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+

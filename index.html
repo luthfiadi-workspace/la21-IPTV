@@ -270,10 +270,10 @@
 <div class="hero">
   <div class="hero-badge">📡 LA21-IPTV</div>
   <h1>Playlist by Luthfiadi</h1>
-  <p>Koleksi playlist IPTV terorganisir — Indonesia, Korea, Russia, Muslim, News, Stocks, AI Edu & lebih banyak lagi.</p>
+  <p>Koleksi playlist IPTV terorganisir — Indonesia, Korea, Russia, World Cup 2026, dan 25+ kategori lainnya.</p>
   <div class="hero-stats">
-    <div class="hero-stat"><div class="num">8+</div><div class="lbl">Kategori</div></div>
-    <div class="hero-stat"><div class="num">100+</div><div class="lbl">Channel Pilihan</div></div>
+    <div class="hero-stat"><div class="num">29</div><div class="lbl">Kategori</div></div>
+    <div class="hero-stat"><div class="num">3000+</div><div class="lbl">Channel</div></div>
     <div class="hero-stat"><div class="num">24/7</div><div class="lbl">Live Stream</div></div>
     <div class="hero-stat"><div class="num">Free</div><div class="lbl">Gratis</div></div>
   </div>
@@ -283,202 +283,17 @@
 
   <div class="notice">
     <span>💡</span>
-    <div>Copy URL playlist dan paste ke aplikasi IPTV kamu (BrowseHere, Tivimate, IPTV Smarters, VLC, dll). Untuk Google TV, buka BrowseHere → Add Playlist → Paste URL. Update otomatis setiap hari via GitHub Actions.</div>
+    <div>Copy URL playlist dan paste ke aplikasi IPTV kamu (TiviMate, IPTV Smarters, VLC, BrowseHere, dll). Update otomatis setiap hari via GitHub Actions.</div>
   </div>
 
   <div class="section-title">⭐ Playlist Utama</div>
-  <div class="playlist-grid">
+  <div class="playlist-grid" id="main-grid"></div>
 
-    <!-- FULL -->
-    <div class="playlist-card" style="--card-color: #4f8ef7">
-      <div class="card-header">
-        <div class="card-emoji">🌐</div>
-        <div>
-          <div class="card-title">Full Playlist</div>
-          <div class="card-desc">Semua kategori dalam 1 file</div>
-        </div>
-      </div>
-      <div class="card-meta">
-        <span class="meta-tag">🇮🇩 ID</span>
-        <span class="meta-tag">🇰🇷 KR</span>
-        <span class="meta-tag">🇷🇺 RU</span>
-        <span class="meta-tag">☪️ Muslim</span>
-        <span class="meta-tag">+6 lagi</span>
-      </div>
-      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/full.m3u')">
-        raw.githubusercontent.com/.../full.m3u
-      </div>
-      <div class="card-actions">
-        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/full.m3u')">📋 Copy URL</button>
-        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/full.m3u" download>⬇ Download</a>
-      </div>
-    </div>
-
-    <!-- INDONESIA -->
-    <div class="playlist-card" style="--card-color: #f59e0b">
-      <div class="card-header">
-        <div class="card-emoji">🇮🇩</div>
-        <div>
-          <div class="card-title">Indonesia</div>
-          <div class="card-desc">TVRI, Metro TV, CNN ID, CNBC ID, dll</div>
-        </div>
-      </div>
-      <div class="card-meta">
-        <span class="meta-tag">⭐ Piala Dunia</span>
-        <span class="meta-tag">Rating-sorted</span>
-      </div>
-      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/indonesia.m3u')">
-        raw.githubusercontent.com/.../indonesia.m3u
-      </div>
-      <div class="card-actions">
-        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/indonesia.m3u')">📋 Copy URL</button>
-        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/indonesia.m3u" download>⬇ Download</a>
-      </div>
-    </div>
-
-    <!-- MUSLIM -->
-    <div class="playlist-card" style="--card-color: #22c55e">
-      <div class="card-header">
-        <div class="card-emoji">☪️</div>
-        <div>
-          <div class="card-title">Muslim / Islami</div>
-          <div class="card-desc">Rodja TV, Al Jazeera, Peace TV, Makkah Live</div>
-        </div>
-      </div>
-      <div class="card-meta">
-        <span class="meta-tag">🇮🇩 ID</span>
-        <span class="meta-tag">🇸🇦 SA</span>
-        <span class="meta-tag">🇶🇦 QA</span>
-      </div>
-      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/muslim.m3u')">
-        raw.githubusercontent.com/.../muslim.m3u
-      </div>
-      <div class="card-actions">
-        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/muslim.m3u')">📋 Copy URL</button>
-        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/muslim.m3u" download>⬇ Download</a>
-      </div>
-    </div>
-
-    <!-- KOREA -->
-    <div class="playlist-card" style="--card-color: #ec4899">
-      <div class="card-header">
-        <div class="card-emoji">🇰🇷</div>
-        <div>
-          <div class="card-title">Korea</div>
-          <div class="card-desc">KBS World, Arirang TV, YTN</div>
-        </div>
-      </div>
-      <div class="card-meta">
-        <span class="meta-tag">KBS</span>
-        <span class="meta-tag">Arirang</span>
-        <span class="meta-tag">YTN</span>
-      </div>
-      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/korea.m3u')">
-        raw.githubusercontent.com/.../korea.m3u
-      </div>
-      <div class="card-actions">
-        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/korea.m3u')">📋 Copy URL</button>
-        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/korea.m3u" download>⬇ Download</a>
-      </div>
-    </div>
-
-    <!-- RUSSIA -->
-    <div class="playlist-card" style="--card-color: #3b82f6">
-      <div class="card-header">
-        <div class="card-emoji">🇷🇺</div>
-        <div>
-          <div class="card-title">Russia</div>
-          <div class="card-desc">RT English, RT Arabic, RT Documentary</div>
-        </div>
-      </div>
-      <div class="card-meta">
-        <span class="meta-tag">RT EN</span>
-        <span class="meta-tag">RT AR</span>
-        <span class="meta-tag">RT Doc</span>
-      </div>
-      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/russia.m3u')">
-        raw.githubusercontent.com/.../russia.m3u
-      </div>
-      <div class="card-actions">
-        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/russia.m3u')">📋 Copy URL</button>
-        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/russia.m3u" download>⬇ Download</a>
-      </div>
-    </div>
-
-    <!-- NEWS -->
-    <div class="playlist-card" style="--card-color: #f97316">
-      <div class="card-header">
-        <div class="card-emoji">📰</div>
-        <div>
-          <div class="card-title">News / Berita</div>
-          <div class="card-desc">BBC, Al Jazeera, DW, France 24, CNN, NHK</div>
-        </div>
-      </div>
-      <div class="card-meta">
-        <span class="meta-tag">BBC</span>
-        <span class="meta-tag">CNN</span>
-        <span class="meta-tag">DW</span>
-        <span class="meta-tag">+5 lagi</span>
-      </div>
-      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/news.m3u')">
-        raw.githubusercontent.com/.../news.m3u
-      </div>
-      <div class="card-actions">
-        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/news.m3u')">📋 Copy URL</button>
-        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/news.m3u" download>⬇ Download</a>
-      </div>
-    </div>
-
-    <!-- STOCKS & TRADE -->
-    <div class="playlist-card" style="--card-color: #38bdf8">
-      <div class="card-header">
-        <div class="card-emoji">📈</div>
-        <div>
-          <div class="card-title">Stocks & Trade</div>
-          <div class="card-desc">Bloomberg, CNBC, BFM Business</div>
-        </div>
-      </div>
-      <div class="card-meta">
-        <span class="meta-tag">Bloomberg</span>
-        <span class="meta-tag">CNBC</span>
-        <span class="meta-tag">BFM</span>
-      </div>
-      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/stocks-trade.m3u')">
-        raw.githubusercontent.com/.../stocks-trade.m3u
-      </div>
-      <div class="card-actions">
-        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/stocks-trade.m3u')">📋 Copy URL</button>
-        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/stocks-trade.m3u" download>⬇ Download</a>
-      </div>
-    </div>
-
-    <!-- AI EDU -->
-    <div class="playlist-card" style="--card-color: #a855f7">
-      <div class="card-header">
-        <div class="card-emoji">🤖</div>
-        <div>
-          <div class="card-title">AI Edu / Science</div>
-          <div class="card-desc">NASA TV, Discovery Science, Curiosity Stream</div>
-        </div>
-      </div>
-      <div class="card-meta">
-        <span class="meta-tag">NASA TV</span>
-        <span class="meta-tag">Discovery</span>
-        <span class="meta-tag">Nat Geo</span>
-      </div>
-      <div class="url-box" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/ai-edu.m3u')">
-        raw.githubusercontent.com/.../ai-edu.m3u
-      </div>
-      <div class="card-actions">
-        <button class="btn btn-copy" onclick="copyUrl(this, 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/ai-edu.m3u')">📋 Copy URL</button>
-        <a class="btn btn-dl" href="https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/ai-edu.m3u" download>⬇ Download</a>
-      </div>
-    </div>
-
-  </div>
+  <div class="section-title">🗂 Semua Kategori</div>
+  <div class="playlist-grid" id="category-grid"></div>
 
   <!-- HOW TO USE -->
-  <div class="section-title">📱 Cara Pakai di BrowseHere (Google TV)</div>
+  <div class="section-title">📱 Cara Pakai di TiviMate / Player IPTV Lain</div>
   <div class="how-to">
     <div class="steps">
       <div class="step">
@@ -492,15 +307,15 @@
       <div class="step">
         <div class="step-num">2</div>
         <div class="step-body">
-          <div class="step-title">Buka BrowseHere di Google TV</div>
-          <div class="step-desc">Buka aplikasi BrowseHere → pilih menu IPTV atau M3U Player → pilih "Add Playlist".</div>
+          <div class="step-title">Buka TiviMate → Settings → Playlists</div>
+          <div class="step-desc">Pilih Add Playlist → M3U Playlist → masukkan URL.</div>
         </div>
       </div>
       <div class="step">
         <div class="step-num">3</div>
         <div class="step-body">
           <div class="step-title">Paste URL & Load</div>
-          <div class="step-desc">Paste URL yang sudah dicopy → klik Load/OK. Channel akan muncul terkelompok per kategori otomatis.</div>
+          <div class="step-desc">Paste URL yang sudah dicopy → klik Load/OK. Channel akan muncul terkelompok per kategori otomatis, lengkap dengan logo.</div>
         </div>
       </div>
       <div class="step">
@@ -525,6 +340,68 @@
 <div class="toast" id="toast">✅ URL berhasil dicopy!</div>
 
 <script>
+const BASE = 'https://raw.githubusercontent.com/luthfiadi-workspace/la21-IPTV/main/playlists/';
+
+const MAIN_PLAYLISTS = [
+  { file: 'full.m3u', emoji: '🌐', title: 'Full Playlist', desc: 'Semua kategori dalam 1 file', color: '#4f8ef7', tags: ['3000+ channel', 'Semua kategori'] },
+  { file: 'indonesia.m3u', emoji: '🇮🇩', title: 'Indonesia', desc: 'RCTI, SCTV*, Trans TV, TVRI, dll (ranked)', color: '#f59e0b', tags: ['Ranked', '203 channel'] },
+  { file: 'korea.m3u', emoji: '🇰🇷', title: 'Korea', desc: 'KBS World, Arirang TV, YTN', color: '#ec4899', tags: ['89 channel'] },
+  { file: 'russia.m3u', emoji: '🇷🇺', title: 'Russia', desc: 'RT English, RT Arabic, RT Documentary', color: '#3b82f6', tags: ['176 channel'] },
+  { file: 'world-cup.m3u', emoji: '🏆', title: 'World Cup 2026', desc: 'Broadcaster resmi free-to-air saja (BBC, ČT Sport, M6, dll)', color: '#16a34a', tags: ['Curated', '28 channel'] },
+];
+
+const CATEGORY_PLAYLISTS = [
+  { file: 'sports.m3u', emoji: '⚽', title: 'Sports', desc: 'Siaran olahraga umum', color: '#22c55e', count: 184 },
+  { file: 'news.m3u', emoji: '📰', title: 'News', desc: 'BBC, Al Jazeera, DW, France 24, CNN', color: '#f97316', count: 685 },
+  { file: 'religious.m3u', emoji: '🛐', title: 'Religious', desc: 'Rodja TV, Al Jazeera, Peace TV, Makkah Live', color: '#22c55e', count: 399 },
+  { file: 'stocks-trade.m3u', emoji: '📈', title: 'Business & Stocks', desc: 'Bloomberg, CNBC, BFM Business', color: '#38bdf8', count: 59 },
+  { file: 'education.m3u', emoji: '🎓', title: 'Edukasi', desc: 'Channel pendidikan', color: '#a855f7', count: 147 },
+  { file: 'science.m3u', emoji: '🔬', title: 'Science', desc: 'NASA TV, Discovery Science', color: '#a855f7', count: 6 },
+  { file: 'movies.m3u', emoji: '🎬', title: 'Movies', desc: 'Channel film', color: '#ef4444', count: 182 },
+  { file: 'kids.m3u', emoji: '🧒', title: 'Kids', desc: 'Channel anak-anak', color: '#facc15', count: 129 },
+  { file: 'music.m3u', emoji: '🎵', title: 'Music', desc: 'Channel musik', color: '#d946ef', count: 327 },
+  { file: 'documentary.m3u', emoji: '🎥', title: 'Documentary', desc: 'Channel dokumenter', color: '#0ea5e9', count: 66 },
+  { file: 'comedy.m3u', emoji: '😂', title: 'Comedy', desc: 'Channel komedi', color: '#fb923c', count: 20 },
+  { file: 'animation.m3u', emoji: '🎨', title: 'Animation', desc: 'Channel animasi', color: '#f472b6', count: 33 },
+  { file: 'culture.m3u', emoji: '🎭', title: 'Culture', desc: 'Channel budaya & seni', color: '#8b5cf6', count: 85 },
+  { file: 'entertainment.m3u', emoji: '🎉', title: 'Entertainment', desc: 'Channel hiburan umum', color: '#fbbf24', count: 289 },
+  { file: 'family.m3u', emoji: '👨‍👩‍👧', title: 'Family', desc: 'Channel keluarga', color: '#34d399', count: 13 },
+  { file: 'lifestyle.m3u', emoji: '🌿', title: 'Lifestyle', desc: 'Channel gaya hidup', color: '#10b981', count: 56 },
+  { file: 'series.m3u', emoji: '📺', title: 'Series & Drama', desc: 'Channel serial & drama', color: '#6366f1', count: 45 },
+  { file: 'travel.m3u', emoji: '✈️', title: 'Travel', desc: 'Channel perjalanan', color: '#06b6d4', count: 24 },
+  { file: 'weather.m3u', emoji: '🌦️', title: 'Weather', desc: 'Channel cuaca', color: '#60a5fa', count: 6 },
+  { file: 'outdoor.m3u', emoji: '🏔️', title: 'Outdoor', desc: 'Channel aktivitas luar ruang', color: '#65a30d', count: 39 },
+  { file: 'cooking.m3u', emoji: '🍳', title: 'Cooking', desc: 'Channel kuliner', color: '#f59e0b', count: 12 },
+  { file: 'classic.m3u', emoji: '📼', title: 'Classic TV', desc: 'Channel siaran klasik', color: '#a3a3a3', count: 26 },
+  { file: 'auto.m3u', emoji: '🚗', title: 'Auto', desc: 'Channel otomotif', color: '#dc2626', count: 7 },
+  { file: 'public.m3u', emoji: '📡', title: 'Public Access', desc: 'Channel akses publik', color: '#0891b2', count: 53 },
+  { file: 'legislative.m3u', emoji: '🏛️', title: 'Legislative', desc: 'Channel pemerintahan/legislatif', color: '#475569', count: 78 },
+];
+
+function cardHtml(p) {
+  const url = BASE + p.file;
+  const tags = p.tags ? p.tags.map(t => `<span class="meta-tag">${t}</span>`).join('') : `<span class="meta-tag">${p.count} channel</span>`;
+  return `
+    <div class="playlist-card" style="--card-color: ${p.color}">
+      <div class="card-header">
+        <div class="card-emoji">${p.emoji}</div>
+        <div>
+          <div class="card-title">${p.title}</div>
+          <div class="card-desc">${p.desc}</div>
+        </div>
+      </div>
+      <div class="card-meta">${tags}</div>
+      <div class="url-box" onclick="copyUrl(this, '${url}')">raw.githubusercontent.com/.../${p.file}</div>
+      <div class="card-actions">
+        <button class="btn btn-copy" onclick="copyUrl(this, '${url}')">📋 Copy URL</button>
+        <a class="btn btn-dl" href="${url}" download>⬇ Download</a>
+      </div>
+    </div>`;
+}
+
+document.getElementById('main-grid').innerHTML = MAIN_PLAYLISTS.map(cardHtml).join('');
+document.getElementById('category-grid').innerHTML = CATEGORY_PLAYLISTS.map(cardHtml).join('');
+
 function copyUrl(el, url) {
   navigator.clipboard.writeText(url).then(() => {
     // Flash btn if it's a button

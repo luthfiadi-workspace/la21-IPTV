@@ -1,7 +1,7 @@
 """
 LA21-IPTV Auto Update Script
 Fetch channel data from iptv-org (master branch, real working stream URLs)
-and rebuild category playlists.
+and rebuild category playlists, with logos and curated rankings.
 """
 import csv
 import os
@@ -12,18 +12,56 @@ import urllib.request
 UA = "LA21-IPTV/1.0"
 STREAMS_URL = "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/{}.m3u"
 CHANNELS_CSV = "https://raw.githubusercontent.com/iptv-org/database/master/data/channels.csv"
+LOGOS_CSV = "https://raw.githubusercontent.com/iptv-org/database/master/data/logos.csv"
 
-# Countries fetched to build both country playlists and category playlists
+# Countries fetched to build country playlists and category playlists
 COUNTRIES = ["id", "kr", "ru", "us", "uk", "qa", "ae", "fr", "de", "in",
              "sa", "eg", "my", "pk", "tr", "es", "it", "br",
              "cz", "nl", "ch", "at", "be", "pt", "pl", "ca", "mx", "cn", "jp", "au", "za"]
+
+# Full iptv-org category taxonomy mapped to our playlists.
+# "general", "interactive", "shop" and "xxx" are intentionally excluded:
+# general/interactive are mostly low-value junk/shopping channels, xxx is adult content.
+CATEGORY_PLAYLISTS = {
+    "news.m3u": ({"news"}, "📰 News"),
+    "religious.m3u": ({"religious"}, "🛐 Religious"),
+    "stocks-trade.m3u": ({"business"}, "📈 Business & Stocks"),
+    "education.m3u": ({"education"}, "🎓 Edukasi"),
+    "science.m3u": ({"science"}, "🔬 Science"),
+    "sports.m3u": ({"sports"}, "⚽ Sports"),
+    "movies.m3u": ({"movies"}, "🎬 Movies"),
+    "kids.m3u": ({"kids"}, "🧒 Kids"),
+    "music.m3u": ({"music"}, "🎵 Music"),
+    "documentary.m3u": ({"documentary"}, "🎥 Documentary"),
+    "comedy.m3u": ({"comedy"}, "😂 Comedy"),
+    "animation.m3u": ({"animation"}, "🎨 Animation"),
+    "culture.m3u": ({"culture"}, "🎭 Culture"),
+    "entertainment.m3u": ({"entertainment"}, "🎉 Entertainment"),
+    "family.m3u": ({"family"}, "👨‍👩‍👧 Family"),
+    "lifestyle.m3u": ({"lifestyle"}, "🌿 Lifestyle"),
+    "series.m3u": ({"series"}, "📺 Series & Drama"),
+    "travel.m3u": ({"travel"}, "✈️ Travel"),
+    "weather.m3u": ({"weather"}, "🌦️ Weather"),
+    "outdoor.m3u": ({"outdoor"}, "🏔️ Outdoor"),
+    "cooking.m3u": ({"cooking"}, "🍳 Cooking"),
+    "classic.m3u": ({"classic"}, "📼 Classic TV"),
+    "auto.m3u": ({"auto"}, "🚗 Auto"),
+    "public.m3u": ({"public"}, "📡 Public Access"),
+    "legislative.m3u": ({"legislative"}, "🏛️ Legislative"),
+}
+
+COUNTRY_PLAYLISTS = {
+    "indonesia.m3u": ("id", "🇮🇩 Indonesia"),
+    "korea.m3u": ("kr", "🇰🇷 Korea"),
+    "russia.m3u": ("ru", "🇷🇺 Russia"),
+}
 
 # Official free-to-air World Cup 2026 broadcasters per country.
 # Verified against the actual iptv-org stream lists: many flagship broadcasters
 # (BBC iPlayer feeds, ITV, ARD, ZDF, RT, CCTV, MBC, SBS Korea, VRT TV) are either
 # absent from the free public dataset or marked [Geo-blocked] (only playable from
 # their home country), so only channels that are genuinely free and unrestricted
-# are included here. Exact name match, case-insensitive.
+# are included here. This list is broadcasters ONLY — no general sports channels.
 WORLD_CUP_2026_BROADCASTERS = {
     "uk": ["BBC One", "BBC Two"],
     "cz": ["ČT Sport"],
@@ -41,24 +79,22 @@ WORLD_CUP_2026_BROADCASTERS = {
     "qa": ["Al Jazeera English"],
 }
 
-CATEGORY_PLAYLISTS = {
-    "news.m3u": ({"news"}, "📰 News"),
-    "muslim.m3u": ({"religious"}, "☪️ Muslim"),
-    "stocks-trade.m3u": ({"business"}, "📈 Stocks & Trade"),
-    "ai-edu.m3u": ({"education", "science"}, "🎓 Edukasi & Sains"),
-    "world-cup.m3u": ({"sports"}, "🏆 World Cup / Sports"),
-    "movies.m3u": ({"movies"}, "🎬 Movies"),
-    "kids.m3u": ({"kids"}, "🧒 Kids"),
-    "music.m3u": ({"music"}, "🎵 Music"),
-    "documentary.m3u": ({"documentary"}, "🎥 Documentary"),
-    "comedy.m3u": ({"comedy"}, "😂 Comedy"),
-    "animation.m3u": ({"animation"}, "🎨 Animation"),
-}
+# Manual popularity ranking for Indonesian free-to-air channels (most-watched first).
+# Anything not in this list keeps its original order, appended after ranked channels.
+INDONESIA_RANK = [
+    "RCTI", "SCTV", "Indosiar", "Trans TV", "Trans7", "ANTV", "MNCTV",
+    "GTV", "Global TV", "tvOne", "TV One", "Metro TV", "Kompas TV", "NET",
+    "iNews", "TVRI Nasional", "TVRI Sport", "TVRI", "BeritaSatu",
+    "CNN Indonesia", "CNBC Indonesia", "Trans 7",
+]
 
-COUNTRY_PLAYLISTS = {
-    "indonesia.m3u": ("id", "🇮🇩 Indonesia"),
-    "korea.m3u": ("kr", "🇰🇷 Korea"),
-    "russia.m3u": ("ru", "🇷🇺 Russia"),
+# Channels upstream mistags into education/science categories that are clearly
+# something else by name (verified against general knowledge, not live browsing —
+# this sandbox can only reach GitHub domains, so very obscure local channels
+# cannot be fully fact-checked).
+MISCATEGORIZED_EXCLUDE = {
+    "AyenehTV.us",       # Bahá'í religious channel, not education
+    "PayamJavanTV.us",   # Iranian diaspora political channel, not education
 }
 
 
@@ -104,6 +140,14 @@ def set_group(extinf, group):
     return extinf.replace("#EXTINF:-1", f'#EXTINF:-1 group-title="{group}"', 1)
 
 
+def set_logo(extinf, logo_url):
+    if not logo_url:
+        return extinf
+    if "tvg-logo=" in extinf:
+        return re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', extinf)
+    return extinf.replace("#EXTINF:-1", f'#EXTINF:-1 tvg-logo="{logo_url}"', 1)
+
+
 def write_playlist(path, channels, note=""):
     with open(path, "w", encoding="utf-8") as f:
         f.write('#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"\n')
@@ -127,6 +171,23 @@ def dedup(channels):
     return out
 
 
+def channel_name(ch):
+    m = re.search(r',(.+)$', ch["extinf"])
+    return m.group(1) if m else ""
+
+
+def rank_indonesia(channels):
+    def rank_key(ch):
+        name = channel_name(ch)
+        for idx, keyword in enumerate(INDONESIA_RANK):
+            if keyword.lower() in name.lower():
+                return (0, idx)
+        return (1, 0)
+    indexed = list(enumerate(channels))
+    indexed.sort(key=lambda pair: (rank_key(pair[1]), pair[0]))
+    return [ch for _, ch in indexed]
+
+
 def main():
     print("🚀 LA21-IPTV Auto Update")
     print("=" * 40)
@@ -138,17 +199,35 @@ def main():
     for row in csv.DictReader(csv_text.splitlines()):
         cat_of_id[row["id"]] = set((row.get("categories") or "").split(";")) if row.get("categories") else set()
 
+    print("📡 Fetching logos...")
+    logo_of_id = {}
+    logos_text = fetch(LOGOS_CSV)
+    for row in csv.DictReader(logos_text.splitlines()):
+        cid = row["channel"]
+        if cid in logo_of_id:
+            continue
+        if row.get("feed"):
+            continue
+        if row.get("in_use", "").upper() != "TRUE":
+            continue
+        logo_of_id[cid] = row["url"]
+
     country_channels = {}
     for cc in COUNTRIES:
         print(f"📡 Fetching {cc} ...")
         text = fetch(STREAMS_URL.format(cc))
-        country_channels[cc] = dedup(parse_m3u(text))
-        print(f"  → {len(country_channels[cc])} channels")
+        chans = dedup(parse_m3u(text))
+        for ch in chans:
+            ch["extinf"] = set_logo(ch["extinf"], logo_of_id.get(ch["id"]))
+        country_channels[cc] = chans
+        print(f"  → {len(chans)} channels")
 
     all_groups = []
 
     for filename, (cc, label) in COUNTRY_PLAYLISTS.items():
         chans = [dict(ch, extinf=set_group(ch["extinf"], label)) for ch in country_channels.get(cc, [])]
+        if filename == "indonesia.m3u":
+            chans = rank_indonesia(chans)
         write_playlist(f"playlists/{filename}", chans)
         all_groups.append(chans)
 
@@ -157,30 +236,31 @@ def main():
     seen_wc = set()
     for cc, names in WORLD_CUP_2026_BROADCASTERS.items():
         for ch in country_channels.get(cc, []):
-            name_m = re.search(r',(.+)$', ch["extinf"])
-            chan_name = name_m.group(1) if name_m else ""
-            if (any(n.lower() in chan_name.lower() for n in names)
+            name = channel_name(ch)
+            if (any(n.lower() in name.lower() for n in names)
                     and "[geo-blocked]" not in ch["extinf"].lower()
                     and ch["url"] not in seen_wc):
                 seen_wc.add(ch["url"])
-                worldcup_2026.append(dict(ch, extinf=set_group(ch["extinf"], "🏆 World Cup 2026 Broadcasters")))
+                worldcup_2026.append(dict(ch, extinf=set_group(ch["extinf"], "🏆 World Cup 2026")))
+    write_playlist(
+        "playlists/world-cup.m3u", worldcup_2026,
+        "Curated official free-to-air World Cup 2026 broadcasters only (no general sports "
+        "channels). Paid broadcasters (beIN Sports, Zee Sports, SuperSport) and broadcasters "
+        "with no free public stream available (BBC iPlayer, ITV, ARD, ZDF, RT, CCTV, MBC/SBS "
+        "Korea, VRT) are not included."
+    )
+    all_groups.append(worldcup_2026)
 
     for filename, (cats, label) in CATEGORY_PLAYLISTS.items():
         result = []
         seen = set()
         for cc in COUNTRIES:
             for ch in country_channels.get(cc, []):
-                if cat_of_id.get(ch["id"], set()) & cats and ch["url"] not in seen:
+                if (cat_of_id.get(ch["id"], set()) & cats and ch["url"] not in seen
+                        and ch["id"] not in MISCATEGORIZED_EXCLUDE):
                     seen.add(ch["url"])
                     result.append(dict(ch, extinf=set_group(ch["extinf"], label)))
-        note = ""
-        if filename == "world-cup.m3u":
-            result = dedup(worldcup_2026 + result)
-            note = ("Includes curated official free-to-air World Cup 2026 broadcasters "
-                     "(BBC, ARD/ZDF, TF1, TVRI, KBS/MBC/SBS, FOX, etc.) plus general sports "
-                     "channels. Paid broadcasters (beIN Sports, Zee Sports, SuperSport) are not "
-                     "included since they require a subscription.")
-        write_playlist(f"playlists/{filename}", result, note)
+        write_playlist(f"playlists/{filename}", result)
         all_groups.append(result)
 
     full = dedup([ch for group in all_groups for ch in group])
